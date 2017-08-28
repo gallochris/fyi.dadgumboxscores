@@ -125,7 +125,13 @@ h3 {
 
 .wowsers h1 { 
     text-align: center;
+    line-height: 2em;
  }
+
+.wowsers h3 { 
+    line-height: 2em;
+ }
+
 
 header { 
  text-align: center;
