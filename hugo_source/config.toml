@@ -1,0 +1,16 @@
+baseURL = "https://fyi.dadgumboxscores.com/"
+languageCode = "en-us"
+title = "Dadgum Box Scores"
+
+[permalinks]
+    posts = ":slug"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  series = "series"
+
+[params]
+    author = "Chris Gallo"
+    description = "Analysis using every UNC basketball box score since 03-04."
+

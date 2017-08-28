@@ -1,0 +1,33 @@
+{{ partial "header.html" . }}
+{{ partial "nav.html" . }}
+<div class="wowsers">
+<br>
+{{ partial "tippy.html" . }}
+<h1>FYI: Dadgum Box Scores</h1>
+
+{{ partial "categories.html" . }}   
+
+{{if not .IsHome }}
+<h3 class="readtime please"> {{ .Title }}</h3>
+{{ end }}
+
+{{ .Content }}
+
+  {{ range (where .Data.Pages "Section" "!=" "") }}
+  <ul class="bmo">
+    <li>
+      <div>
+        <span class="date">{{.Date.Format "January 02, 2006"}} </span>
+        <br>
+        <a href="{{.Permalink}}">{{.Title}}</a>
+      </div>
+
+  </li>
+  </ul>
+          {{ end }}
+
+
+<hr>
+{{ partial "footer.html" . }}
+
+</div>

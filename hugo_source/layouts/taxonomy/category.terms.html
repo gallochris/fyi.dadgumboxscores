@@ -1,0 +1,63 @@
+{{ partial "header.html" . }}
+{{ partial "nav.html" . }}
+
+      <div class="wowsers">
+        <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
+        <br>
+        {{ partial "tippy.html" . }}
+        <h1>FYI: Dadgum Box Scores</h1>
+        {{.Content}}
+
+       {{ partial "categories.html" . }}
+
+<h2 class="please">Check out the latest posts in these categories:</h2>
+
+{{ range first 1 .Site.Taxonomies.categories.features }}
+
+      <h3>
+      <span class="readtime">Features</span>
+      <br>
+      <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
+      </h3>
+      <span class="quotedate">
+        {{ .Page.Description }}
+      </span>
+
+  {{ end }} 
+
+  {{ range first 1 (index .Site.Taxonomies.categories "four-factors") }}
+
+      <h3>
+      <span class="readtime twentyseventeen">Four Factors</span>
+      <br>
+      <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
+      </h3>
+      <span class="quotedate">
+        {{ .Page.Description }}
+      </span>
+
+  {{ end }}
+
+   {{ range first 1 .Site.Taxonomies.categories.updates }}
+
+      <h3>
+      <span class="readtime twentyseventeen">Updates</span>
+      <br>
+      <a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
+      </h3>
+      <span class="quotedate">
+        {{ .Page.Description }}
+      </span>
+
+  {{ end }}
+
+  
+
+
+  <hr>
+
+
+
+{{ partial "footer.html" . }}
+ </div>
+
