@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://fyi.dadgumboxscores.com/update-02/</loc>
+    <lastmod>2017-11-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://fyi.dadgumboxscores.com/carolinas-frequent-fouler/</loc>
     <lastmod>2017-03-02T00:00:00+00:00</lastmod>
   </url>
@@ -49,7 +54,7 @@
   
   <url>
     <loc>https://fyi.dadgumboxscores.com/</loc>
-    <lastmod>2017-03-02T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -66,7 +71,7 @@
   
   <url>
     <loc>https://fyi.dadgumboxscores.com/posts/</loc>
-    <lastmod>2017-03-02T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -82,7 +87,7 @@
   
   <url>
     <loc>https://fyi.dadgumboxscores.com/categories/updates/</loc>
-    <lastmod>2017-02-08T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
