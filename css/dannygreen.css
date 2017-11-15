@@ -1,65 +1,113 @@
 /* Nav */ 
-.news {
-  margin: 0;
-  padding: 0;
-  font-size: 12px;
-  font-weight: bold;
-}
- 
-nav ul {
-  list-style: none;
-  background-color: #56a0de;
-  text-align: center;
-  padding: 0;
-  margin: 0;
+
+ header {
+  overflow: hidden;
+  background-color: #56a0d3;
+  color:#fff;
+  padding: 15px;
 }
 
-nav li {
-  font-size: 1.2em;
-  line-height: 40px;
-  height: 40px;
-  border-bottom: 1px solid #888;
-}
- 
-nav a {
-  text-decoration: none;
+header h1 {
+  float: left;
+  font-size: 24px;
+  padding-left: 20px;
   color: #fff;
-  display: block;
-  transition: .3s background-color;
 }
- 
-nav a:hover {
-  background-color: #02b;
+
+header nav {
+  float: right;
+  margin-top: 25px;
 }
- 
-nav a.active {
-  background-color: #fff;
-  color: #444;
-  cursor: default;
+
+header nav a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 16px ;
+  font-weight: 700;
+  padding-left: 20px;
+  margin: 15px;
 }
- 
-@media screen and (min-width: 600px) {
-  nav li {
-    width: 120px;
-    border-bottom: none;
-    height: 50px;
-    line-height: 50px;
-    font-size: 1.4em;
+
+header nav a {
+  color:#fff;
+}
+
+header h1 a {
+  text-decoration: none;
+}
+
+ header a:visited {
+  color: inherit;
+}
+
+
+@media screen and (max-width: 750px) {
+
+ header h1, header nav {
+    float: none;
+    padding-left: 0;
   }
 
 
- 
-  /* Option 1 - Display Inline */
-  nav li {
-    display: inline-block;
-    margin-right: -4px;
+  header nav a {
+    display: inline;
+    margin: 36px;
   }
- 
+
+  h1 { 
+
+    font-size: 18px;
+   }
+
+h4 { 
+font-size: 10px;
+ }
+
+  
+
+
+.stilwata {
+font-size: 10px;         /* only if needed */
+  }
+
+ tbody { 
+ font-size: 10px; 
 }
 
+.larrydrew {
+    display:none;
+}
+
+.boone { 
+ font-size: 10px;
+ }
+.code {
+  font-size: 10px;
+}
+
+body {
+  font-size: 14px;
+  line-height: 1.2;
+}
+
+.ohyella {
+  font-size: 10px;
+}
+
+
+
+}
+
+@media screen and (max-width: 650px) {
+
+  header nav a {
+    display: block;
+    margin: auto;
+    text-align: center;
+  }
+}
 
 /* End Nav */ 
-
 
 /* Footer */ 
 
@@ -84,13 +132,24 @@ nav a.active {
 /* End Footer */
 
 
+/* Pre text */ 
+
+
+/* end pre text */
+
+
+
+/* End Footer */
+
+
 body {
   margin: 0;
   font-family: "Roboto Mono", monospace, serif;
   padding: 0;
   color: #14191d;
   background-color: #F2FAFD;
-  font-size: 14px;
+  font-size: 16px;
+  line-height: 1.5;
 }
 
 .wowsers { 
@@ -206,6 +265,11 @@ blockquote {
 .please { 
   text-align: center;
  }
+
+.brooks { 
+ text-align: center;
+ }
+
 
 .ohyella {
   background-color: #faf785; 
