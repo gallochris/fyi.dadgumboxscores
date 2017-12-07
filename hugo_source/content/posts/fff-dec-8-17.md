@@ -49,7 +49,7 @@ After 10 games, here are game-by-game records based on these factors.
 
 Carolina's eFG% on offense is **55.3 percent**. How so? 
 
-Effective field goal percentage takes into account that a 3-point field goal is worth more than a 2-point field goal. It's calculated by multiplying made 3-point baskets by .5 and adding it to total made fields goals divided by attempts: 
+Effective field goal percentage takes into account that a 3-point field goal is worth more than a 2-point field goal. It's calculated by multiplying made 3-point baskets by .5 and adding it to total made fields goals, and then dividing by total field goal attempts: 
 
 `eFG% = (.5 * 3FGM + FGM) / FGA * 100`
 
