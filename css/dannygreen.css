@@ -36,9 +36,6 @@ header h1 a {
   text-decoration: none;
 }
 
- header a:visited {
-  color: inherit;
-}
 
 
 @media screen and (max-width: 750px) {
