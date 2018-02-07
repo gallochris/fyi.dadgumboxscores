@@ -1,27 +1,34 @@
 ---
-title: "Four Factor Friday: Dec. 2, 2016"
-slug: "four-factor-friday-02"
-date: "2016-12-02"
+title: "Four Factors: NC State 95 | Carolina 91"
+slug: "four-factors-state-95-unc-91"
+date: "2018-01-28"
 type: "post"
-param_key: "16-17 Season"
+param_key: "17-18 Season"
 categories: ["four factors"]
-aliases:
-    - /four-factor-friday-dec-2-e5657ac1d873
-    - /four-factor-friday-dec-9-4f47c65abeb9
 ---
 
-# Four Factor Friday: Dec. 2, 2016
+# Four Factors: NC State 95 | Carolina 91
 
-The third addition of Four Factor Friday is specific. Since the Tar Heels only
-played 1 game in the last week, we’ll breakdown the loss to Indiana across all
-[four factors](https://cbbstatshelp.com/four-factors/intro/):
+It's Four Factor Friday on a Sunday. A special edition breaking down Carolina's 95-91 loss to NC State in overtime. 
 
-1.  Effective field goal percentage
-2.  Turnover percentage
-3.  Offensive rebounding
-4.  Free throw rate
+**Forget the four factors?**
 
-{{< gist gallochris 4e15a5e78e881cd35acfcb60697c7cd6 >}}
+These factors are measured both on offense and defense to determine why a team wins or loses.
+
+**Shooting**: measured using effective field goal percentage, accounts for a 3-pointer being worth more than 2-pointer. eFG% = (.5 * 3FGM + FGM) / FGA * 100
+
+**Avoiding turnovers**: measured by what percent of a team’s possessions result in a turnover.
+
+**Rebounds**: measured using the percentage of offensive rebounds a team grabs on its missed shots and free throws. Defensive rebounding or preventing offensive rebounds is equally important.
+
+**Getting to the foul line**: measured using free throw rate, how often a team gets to the foul line, and keeps its opponent off the foul line. FTRate = Free Throw Attempts / Field Goal Attempts
+
+`
+|          | eFG% | TO%  | OR%  | FTRate |
+|----------|------|------|------|--------|
+| Carolina | 55.6 | 17.3 | 41.7 | 27.8   |
+| NC State | 54.6 | 11.1 | 28.3 | 23.8   |
+`
 
 ### eFG%
 

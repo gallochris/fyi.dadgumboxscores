@@ -28,17 +28,11 @@ header nav a {
   margin: 15px;
 }
 
-header nav a {
-  color:#fff;
-}
-
 header h1 a {
   text-decoration: none;
+  color: #fff;
 }
 
- header a:visited {
-  color: inherit;
-}
 
 
 @media screen and (max-width: 750px) {
@@ -52,6 +46,7 @@ header h1 a {
   header nav a {
     display: inline;
     margin: 36px;
+    color: #fff;
   }
 
   h1 { 
@@ -104,6 +99,7 @@ body {
     display: block;
     margin: auto;
     text-align: center;
+    color: #fff;
   }
 }
 
