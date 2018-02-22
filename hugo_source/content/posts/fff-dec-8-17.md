@@ -26,7 +26,7 @@ The [four factors](https://cbbstatshelp.com/four-factors/) determine *why* a tea
 
 After 10 games, here are game-by-game records based on these factors.  
 
-<pre style="text-align: center">
+<pre class="huffman stilwata">
 | When UNC has a . .  | its record is . . .|
 |:-------------------:|:------------------:|
 |     Higher eFG%     |         7-0        |
@@ -63,7 +63,7 @@ The Tar Heels have attempted 656 total shots, made 325 total shots, and 75 of th
 
 This mark is high compared to previous seasons under Roy Williams: 
 
-<pre>
+<pre class="huffman stilwata">
 |  Since '03-04  |  Current |   Best   |   Worst  |
 |:--------------:|:--------:|:--------:|:--------:|
 | eFG% (offense) |   55.3   |   56.0   |   48.0   |
@@ -103,7 +103,7 @@ Opponents have made 257 of 641 shots, and 109 of those shots are three-pointers.
 
 Here is how it compares to other season since '03-04: 
 
-<pre>
+<pre class="huffman stilwata">
 |  Since '03-04  |  Current |   Best   |   Worst  |
 |:--------------:|:--------:|:--------:|:--------:|
 | eFG% (defense) |   48.6   |   45.0   |   50.8   |
@@ -145,7 +145,7 @@ Carolina has turned it over on 17.2 percent of their possessions in 10 games. Th
 
 Here is how it compares to the best and worst mark under Roy Williams: 
 
-<pre>
+<pre class="huffman stilwata">
 |  Since '03-04  |  Current |   Best   |   Worst  |
 |:--------------:|:--------:|:--------:|:--------:|
 |  TO% (offense) |   17.2   |   15.4   |   22.7   |
@@ -169,7 +169,7 @@ Opponents are turning it over on 17.6 percent of their possessions. This number 
 
 Here is how it compares to the best and worst mark under Roy Williams: 
 
-<pre>
+<pre class="huffman stilwata">
 |  Since '03-04  |  Current |   Best   |   Worst  |
 |:--------------:|:--------:|:--------:|:--------:|
 |  TO% (defense) |   17.6   |   23.6   |   17.7   |
@@ -200,7 +200,7 @@ The mark isn't poor. It's still better than most Division-I teams. It's just not
 
 Here is how it compares to the best and worst mark under Roy Williams: 
 
-<pre>
+<pre class="huffman stilwata">
 |  Since '03-04  |  Current |      Best      |   Worst  |
 |:--------------:|:--------:|:--------------:|:--------:|
 |  OR% (offense) |   36.6   |      41.3      |   34.6   |
@@ -229,7 +229,7 @@ This is somewhat of a surprise too. Carolina opponents are grabbing rebounds on 
 
 Here is how it compares to the best and worst mark under Roy Williams:  
 
-<pre>
+<pre class="huffman stilwata">
 |  Since '03-04  |  Current |   Best   |   Worst  |
 |:--------------:|:--------:|:--------:|:--------:|
 |  DR% (defense) |   21.4   |   25.0   |   32.0   |
@@ -262,7 +262,7 @@ Carolina has attempted 223 free throws to 656 total shots. Good for a FTRate of 
 
 Here is how it compares to the best and worst mark under Roy Williams: 
 
-<pre>
+<pre class="huffman stilwata">
 |  Since '03-04  |  Current |   Best   |   Worst  |
 |:--------------:|:--------:|:--------:|:--------:|
 |  FTR (offense) |   34.0   |   44.2   |   28.2   |
@@ -281,7 +281,7 @@ The **21.1 rate** on the defensive end is also the *best* ever under Roy William
 
 Here is how it compares to the best and worst mark under Roy Williams: 
 
-<pre>
+<pre class="huffman stilwata">
 |  Since '03-04  |  Current |   Best   |   Worst   |
 |:--------------:|:--------:|:--------:|:---------:|
 |  FTR (defense) |   21.1   |   21.8   |    41.4   |
