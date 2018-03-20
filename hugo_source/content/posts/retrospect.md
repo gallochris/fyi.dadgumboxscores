@@ -229,7 +229,7 @@ A lot of uncertainty there, especially, given Jalek Felton is no longer at the u
 
 Can Andrew Platek play reserve minutes as a point guard? 
 
-Will Leaky Black or Colby White be able to fill that role? 
+Will Leaky Black or Coby White be able to fill that role? 
 
 {{< tweet 975516500642684929 >}}
 
@@ -263,7 +263,7 @@ Next season's junior class of Seventh Woods and Brandon Robinson will be critica
 
 Can Andrew Platek improve defensively and earn more minutes?
 
-And will the incoming freshmen live up to the hype? Nassir Little, Leaky Black, and Colby White. Will a fourth classmate be joining them? 
+And will the incoming freshmen live up to the hype? Nassir Little, Leaky Black, and Coby White. Will a fourth classmate be joining them? 
 
 If all the answers to these questions are yes, then it likely means Carolina will have something they lacked this past season. A reliable bench. 
 
@@ -271,8 +271,3 @@ If all the answers to these questions are yes, then it likely means Carolina wil
 
 This season's Carolina team was *different*. High highs. Low lows. And that's what makes it so much fun to follow along. 
 
-If all the answers to these questions are yes, then it likely means Carolina will have something they lacked this past season. A reliable bench. 
-
-* * * 
-
-This season's Carolina team was *different*. High highs. Low lows. And that's what makes it so much fun to follow along. 
