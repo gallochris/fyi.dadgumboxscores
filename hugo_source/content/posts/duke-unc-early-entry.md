@@ -40,13 +40,13 @@ Twitter is a solid medium of communication. But if you make a mistake, it's gene
 
 Here is the full list with draft position and years of eligibility left: 
 
-![early-entry-chart](https://cdn-images-1.medium.com/max/1600/1*7iO9d4NrO6n64u9vVXdxJQ.png) 
+![early-entry-chart](https://cdn-images-1.medium.com/max/800/1*870aBEINtvnddlat_Ns3Hg.png) 
 
 ### Caveats 
 
 This list does not include the following: 
 
-- transfers that were drafted, but attended one of the schools (Semi Ojeleye, Michael Gbinije, Elliot Williams)
+- transfers that were drafted, but attended one of the schools (Semi Ojeleye, Elliot Williams)
 
 - players that left early because their eligibility was revoked by the NCAA (P.J. Hairston)
 
@@ -64,8 +64,8 @@ If you're curious, Duke has more one-and-dones and several more years of eligibi
 <pre>
 | Early Entries            | Carolina | Duke |
 |--------------------------|----------|------|
-| One-and-dones            |        3 |   12 |
-| Eligibility left (years) |       25 |   42 |
+| One-and-dones            |        3 |   11 |
+| Eligibility left (years) |       25 |   41 |
 </pre>
 
 And if you're curious about transfers, [Joe Giglio wrote about that recently](https://twitter.com/YellowPadStats/status/959484050103824384).
