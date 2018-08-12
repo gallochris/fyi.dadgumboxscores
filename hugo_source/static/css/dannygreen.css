@@ -4,59 +4,58 @@
   overflow: hidden;
   background-color: #56a0d3;
   color:#fff;
-  padding: 15px;
 }
 
 header h1 {
-  float: left;
+  text-align: center;
   font-size: 24px;
-  padding-left: 20px;
   color: #fff;
 }
 
+header h1 a {
+  color: #fff;
+  text-decoration: none;
+}
+
 header nav {
-  float: right;
-  margin-top: 25px;
+  text-align: center;
+  margin: 1em;
 }
 
 header nav a {
   color: #fff;
   text-decoration: none;
-  font-size: 16px ;
+  font-size: 18px ;
   font-weight: 700;
-  padding-left: 20px;
   margin: 15px;
 }
 
-header h1 a {
-  text-decoration: none;
-  color: #fff;
-}
+
+/* End Nav */ 
 
 
 
 @media screen and (max-width: 750px) {
 
- header h1, header nav {
+  header h1, header nav {
     float: none;
     padding-left: 0;
   }
 
-
-  header nav a {
-    display: inline;
-    margin: 36px;
+    header nav a {
+    display: block;
+    margin: auto;
+    text-align: center;
     color: #fff;
   }
 
   h1 { 
-
-    font-size: 18px;
+  font-size: 14px;
    }
 
-h4 { 
-font-size: 10px;
- }
+   h4 {
+    font-size: 12px;
+   }
 
   
 
@@ -86,7 +85,7 @@ body {
 }
 
 .ohyella {
-  font-size: 10px;
+  font-size: 12px;
 }
 
 
@@ -139,13 +138,12 @@ body {
 
 
 body {
-  margin: 0;
-  font-family: "Roboto Mono", monospace, serif;
-  padding: 0;
-  color: #14191d;
-  background-color: #F2FAFD;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
-  line-height: 1.5;
+  line-height: 1.25;
+  margin: 0 auto;
+  color: #14191d; 
+  background-color: #F2FAFD;
 }
 
 .wowsers { 
@@ -156,8 +154,6 @@ body {
  }
 
  .dean { 
-    margin-top: -5em;
-    padding: 5em;
     text-align: center;
 
   }
@@ -172,7 +168,7 @@ h2 {
   font-size: 18px;
 }
 h3 {
-  font-size: 16px;
+  font-size: 14px;
 }
 
 .wowsers a { 
@@ -284,7 +280,7 @@ blockquote p {
   background-color: #faf785; 
   padding: 0.25em; 
   border-radius: 1em 0 1em 0;
-  font-size: 12px;
+  font-size: 14px;
 }
 
 .readtime { 
