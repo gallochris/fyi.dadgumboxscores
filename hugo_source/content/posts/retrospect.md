@@ -47,9 +47,9 @@ The four factors are the building blocks of efficiency. These factors can help e
 
 As a reminder, the four factors are: 
 
-1. **Shooting:**:  measured using effective field goal percentage, accounts for a 3-pointer being worth more than 2-pointer. `eFG% = (.5 * 3FGM + FGM) / FGA * 100`
+1. **Shooting**:  measured using effective field goal percentage, accounts for a 3-pointer being worth more than 2-pointer. `eFG% = (.5 * 3FGM + FGM) / FGA * 100`
 
-2. **Avoiding turnovers:**: measured by what percent of a team's possessions result in a turnover.
+2. **Avoiding turnovers**: measured by what percent of a team's possessions result in a turnover.
 
 3. **Rebounds**: measured using the *percentage* of offensive rebounds a team grabs on its missed shots and free throws. Defensive rebounding or preventing offensive rebounds is equally important. 
 
