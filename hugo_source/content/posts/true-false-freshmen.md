@@ -130,7 +130,7 @@ In order to add some color to these questions, let's revisit how past freshman c
   </tbody>
 </table>
 
-This table shows a percentage of possible minutes played and games started for every freshman class since 2003-04. The data is pulled from [Sports Reference](https://www.sports-reference.com/cbb/schools/north-carolina/), [GoHeels.com](https://goheels.com/), and [kenpom.com](https://kenpom.com/). 
+This table shows a percentage of possible minutes played and games started for every freshman class since 2003-04. Data is pulled from [Sports Reference](https://www.sports-reference.com/cbb/schools/north-carolina/), [GoHeels.com](https://goheels.com/), and [kenpom.com](https://kenpom.com/). 
 
 See a different look at this information in the following charts: 
 
@@ -178,7 +178,7 @@ A few of these seasons are extremely close to proving the above statement to be 
 
 Let's review this data on a player level. First, this chart shows the top-20 players in percentage of possible minutes played and games started since 2003-04. 
 
-![chart-two](https://pbs.twimg.com/media/DkuVgnzXsAAYq1z.jpg:large "chart-two")
+![chart-two](https://cdn-images-1.medium.com/max/800/1*0qHs4ov-xAWARgYO19GueA.png "chart-two")
 
 This table shows a percentage of possible minutes played and games started for **all freshman** since '03-04. 
 
@@ -483,7 +483,7 @@ This was a surprise. Tyler Hansbrough, Brandan Wright, Harrison Barnes, Wayne El
 
 Nate Britt joined Marcus Paige in the backcourt during his freshman season and started 16 of 34 games. 
 
-One-and-dones Marvin Williams and Tony Bradley never started a collegiate game. It didn't matter. Both were drafted in the first round. Danny Green's collegiate career was a bit of foreshadowing to his NBA career. He came off the bench before coming a starter on the roster. 
+One-and-dones Marvin Williams and Tony Bradley never started a collegiate game. It didn't matter. Both players were drafted in the first round. Danny Green's collegiate career was a bit of foreshadowing to his NBA career. He came off the bench before coming a starter on the roster. 
 
 <span style="color: green; font-weight: bolder;">True</span>: *Joel James started more games during his freshman season than classmates Brice Johnson and J.P. Tokoto combined.* 
 
@@ -497,7 +497,7 @@ We'll find out in a few months.
 
 It's clear you don't need to start at all to make an impact or pump up your draft stock. See Marvin Williams and Tony Bradley. And while Williams and Bradley never made a start, fellow one-and-doner Brandan Wright started 37 of 38 games during his freshman season. 
 
-Whether a player starts or not can be more about opportunity at a position than talent. Bobby Frasor started all 31 games as a freshman, but made only 11 more career starts once Ty Lawson was on the roster. 
+Whether a player starts or not sometimes has more to do with opportunity at a position than talent. Bobby Frasor started all 31 games as a freshman, but made only 11 more career starts once Ty Lawson was on the roster. 
 
 And just because a player doesn't see a lot of minutes or starts as a freshman, it doesn't mean they're not capable of developing into someone who might find their name in the rafters. Tyler Zeller and Brice Johnson say hello. 
 
