@@ -6,10 +6,21 @@
     <description>Recent content in Updates on Dadgum Box Scores</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://fyi.dadgumboxscores.com/categories/updates/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Update: Four factors game-by-game, better mobile access</title>
+      <link>https://fyi.dadgumboxscores.com/update-03/</link>
+      <pubDate>Thu, 16 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://fyi.dadgumboxscores.com/update-03/</guid>
+      <description>Update: Four factors for every game If you don&amp;rsquo;t know, the four factors explain why a team wins or loses. They&amp;rsquo;re the building blocks to efficiency. The four factors are:
+ Shooting (eFG) Avoiding turnovers (TO%) Offensive rebounding (OR%) Getting to the foul line (FTRate)  I&amp;rsquo;ve now added four factors and points-per-possession (PPP) for every game since 2003-04 on this page on the site.
+This was a tall task.</description>
+    </item>
     
     <item>
       <title>Update: Four factors, NBA draft picks, and more refs</title>
