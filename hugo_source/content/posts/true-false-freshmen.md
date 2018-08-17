@@ -42,7 +42,7 @@ How does the freshman class fit into this roster?
 
 In order to add some color to these questions, let's revisit how past freshman classes have done just that. 
 
-<table>
+<table cellspacing="0" width="100%">
   <caption>Freshman Class Percentage of Minutes Played &amp; Games Started</caption>
   <thead>
     <tr>
@@ -182,7 +182,7 @@ Let's review this data on a player level. First, this chart shows the top-20 pla
 
 This table shows a percentage of possible minutes played and games started for **all freshman** since '03-04. 
 
-<table>
+<table cellspacing="0" width="100%">
   <caption>Freshmen Percentage of Minutes Played &amp; Games Started</caption>
 <thead>
     <tr>
