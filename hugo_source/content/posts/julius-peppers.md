@@ -26,7 +26,7 @@ Peppers rushed for 3,501 yards and 46 touchdowns at Southern Nash. Yes, he was a
 
 He scored more than 1,600 points and pulled down over 800 rebounds on the basketball court. These numbers brought recruiting attention from a ton of schools, including Duke.
 
-Amongst all the eye-opening statistics, maybe the most impressive tidbit Crothers shares in the article is this [Bo Jackson-esque absurd atheltic ability](https://twitter.com/TomFornelli/status/936269898963144709): 
+Amongst all the eye-opening statistics, maybe the most impressive tidbit Crothers shares in the article is this [Bo Jackson type athletic ability](https://twitter.com/TomFornelli/status/936269898963144709): 
 
 > The coach still shakes his head in disbelief as he recalls a three-hour football practice on a scorching summer day before Peppers's junior season, after which all the other Firebirds lay sprawled on the grass or huddled around the water spigot. 
 
@@ -50,7 +50,7 @@ Here is Peppers tripping up Florida State's Chris Weinke as a redshirt freshman:
 
 Florida State went 12-0 that season en route to the National Championship. 
 
-In the [clip above](https://youtu.be/XzLN9LfENmg?t=1h8m38s), commentators Brad Nessler and Bob Griese mention Peppers has his eyes on playing basketball too. Nessler mentions how Peppers told him head coach Bill Gutheridge said he can play with the basketball team. 
+In the [clip above](https://youtu.be/XzLN9LfENmg?t=1h8m38s), commentators Brad Nessler and Bob Griese mention Peppers has his eyes on playing basketball too. Nessler mentions how Peppers told him head coach Bill Guthridge said he can play with the basketball team. 
 
 And he was right. 
 
@@ -62,9 +62,9 @@ In his third career contest, he earned 5 minutes against Buffalo, scoring 6 poin
 
 No video evidence, but the media guide described it as a spectacular dunk that was featured on ESPN. You can imagine. 
 
-Kris Lang was hampered by injuires, Brian Bersticker broke his foot, and that gave Peppers an opportunity. He played his way into basketball shape and began to earn more minutes on the floor. Once January hit, the defensive end was becoming a major piece off a shallow bench. 
+Kris Lang was hampered by injuries, Brian Bersticker broke his foot, and that gave Peppers an opportunity. He played his way into basketball shape and began to earn more minutes on the floor. Once January hit, the defensive end was becoming a major piece off a shallow bench. 
 
-Peppers battled ACC players like Georgia Tech's Jason Collier, Maryland's Terence Morris, Wake Forest's Darius Songalia, and Duke's Shane Battier and Carlos Boozer. He wasn't just holding his own, he was becoming a big-time player.
+Peppers battled ACC players like Georgia Tech's Jason Collier, Maryland's Terence Morris, Wake Forest's Darius Songaila, and Duke's Shane Battier and Carlos Boozer. He wasn't just holding his own, he was becoming a big-time player.
 
 Watch this spin move and hook shot he puts on Battier: 
 
@@ -72,17 +72,18 @@ Watch this spin move and hook shot he puts on Battier:
 
 Carolina finished the regular season 18-13 overall and 9-7 in the ACC earning an 8-seed in the NCAA Tournament. 
 
-In the first round, the Tar Heels took care of a Quinn Synder coached Missouri team winning by 14 points. Brendan Haywood had 28 and 15, and Ed Cota had 10 assists to reach over 1,000 for his career. Peppers poured in 9 points and 4 rebounds in 14 minutes. 
+In the first round, the Tar Heels took care of a Quin Snyder coached Missouri team winning by 14 points. Brendan Haywood had 28 and 15, and Ed Cota had 10 assists to reach over 1,000 for his career. Peppers poured in 9 points and 4 rebounds in 14 minutes. 
 
 The win meant Carolina would meet Stanford, the 1-seed in the South Region. 
 
 Peppers had 6 points, 4 rebounds, 3 blocks, and 2 steals to help Carolina beat Stanford 60-53. Stanford attempted 38 percent of their shots from behind the 3-point line, and made just 27 percent of those shots. 
 
-His play in the final minute of the first half was massive, and he was a force amongst Cardinal big-men Mark Madsen, Ryan Mendez, and Jason and Jarrod Collins. 
+His play in the final minute of the first half was massive, and he was a force against Cardinal big-men Mark Madsen, Ryan Mendez, and Jason and Jarrod Collins. 
 
-<video width="500" style="display: block; margin: 0 auto;" controls>
-  <source src="/images/pep-stanford.mp4" type="video/mp4">
-</video>
+{{< wistia 6ypt7bg1ac >}}
+
+<br/>
+<br/>
 
 After upsetting Stanford, Carolina matched up with Tennessee in Austin, Texas. The Vols we're leading almost the entire game, but Tennessee went from the 7:15 mark to 13.6 seconds left in the game without a single field goal. 
 
@@ -92,9 +93,10 @@ The Tar Heels erased a 4-point deficit in the final 4 minutes to advance to the 
 
 The numbers don't do it justice, look *how* he played: 
 
-<video width="500" style="display: block; margin: 0 auto;" controls>
-  <source src="/images/pep-tenn.mp4" type="video/mp4">
-</video>
+{{< wistia 79309dor4u >}}
+
+<br/>
+<br/>
 
 Only Tulsa was in the way from Carolina making it to the Final Four. After Kris Lang turned his ankle within the first couple minutes of the game, there was an opportunity for Peppers to play early and often. 
 
@@ -102,10 +104,10 @@ He caught an alley-opp from Cota, found Cota on a backdoor layup, changed a shot
 
 The way Peppers snatched rebounds out of the air was impressive. *Rebounds were impressive*. James Worthy, Tar Heel great and color commentator, [said he had pogo sticks](https://youtu.be/vlYIEczYACQ?t=47m14s) in his legs. He was huge down the stretch. 
 
+{{< wistia j8zx3k94bi >}}
 
-<video width="500" style="display: block; margin: 0 auto;" controls>
-  <source src="/images/pep-tulsa.mp4" type="video/mp4">
-</video>
+<br/>
+<br/>
 
 Carolina beat Tulsa 59-55 to earn their 15th trip to the Final Four, and third in the last 4 years at that time. It was unexpected. 
 
@@ -164,9 +166,10 @@ Peppers threw down a left-handed dunk plus the foul. He failed make the free thr
 
 Curry hit Peppers for an alley-oop, and Dave Odom called a necessary timeout. The game was tied at 55.
 
-<video width="500" style="display: block; margin: 0 auto;" controls>
-  <source src="/images/pep-wake.mp4" type="video/mp4">
-</video>
+{{< wistia dn9uck1fgh >}}
+
+<br/>
+<br/>
 
 Consider Peppers was doing this on a basketball court *49 days* after recording two sacks and a 27-yard interception return for a touchdown at Duke. 
 
@@ -227,10 +230,10 @@ Even Billy Packer [said](https://goheels.com/news/2001/2/9/205470304.aspx) this 
 
 Peppers started his third football season under another first-year head coach in John Bunting. 
 
-His final football season included the following accoldades: 
+His final football season included the following accolades: 
 
 - 2001 Lombardi and Bednarik Award winner (best lineman and defensive player in the nation)
-- Unamimous First-team All America 
+- Unanimous First-team All America 
 - First-team All-ACC 
 - 9.5 sacks, 3 interceptions, and 19 tackles for a loss 
 
