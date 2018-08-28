@@ -3,7 +3,7 @@ title: "True or False: Freshmen"
 slug: "true-or-false-freshman"
 date: "2018-08-17"
 type: "post"
-param_key: "18-19 season"
+param_key: "Random"
 description: "A look at freshmen participation numbers since '03-04."
 categories: ["features"]
 ---

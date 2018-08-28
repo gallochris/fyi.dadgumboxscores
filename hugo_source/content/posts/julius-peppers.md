@@ -3,7 +3,7 @@ title: "The Best Defensive End in College Basketball"
 slug: "julius-frazier-peppers"
 date: "2018-08-28"
 type: "post"
-param_key: "18-19 season"
+param_key: "Random"
 description: "Julius Peppers was a Tasamanian Devil of a two-sport athlete."
 categories: ["features"]
 ---
