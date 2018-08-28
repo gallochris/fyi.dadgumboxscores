@@ -10,7 +10,7 @@ categories: ["features"]
 
 # The Best Defensive End in College Basketball
 
-Julius Peppers enters his 18th NFL season next week. Before he became a NFL superstar, Peppers was a Tasamanian Devil of a two-sport athlete. 
+Julius Peppers enters his 17th NFL season next week. Before he became a NFL superstar, Peppers was a Tasamanian Devil of a two-sport athlete. 
 
 In the August 2001 issue of Sports Illustrated, Tim Crothers detailed the [story of Peppers](https://www.si.com/vault/2001/08/13/8117394/game-of-choice-he-always-loved-basketball-best-but-now-the-time-has-come-for-north-carolinas-julius-peppers-to-devote-himself-to-one-sport-yearroundand-its-football) in a way only Crothers could do. 
 
