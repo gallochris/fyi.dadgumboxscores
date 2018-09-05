@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+    <html class="no-js" lang="en">
+<head>
+    
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+    <title>Easy Shot Volume Solver: Since &#39;03-04</title>
+    <meta name="description" content="Analysis using every UNC basketball box score since 03-04.">
+    <meta name="author" content="Chris Gallo">
+
+    <link rel="shortcut icon" href="https://fyi.dadgumboxscores.com/images/favicon.ico">
+
+    
+    <link href="https://fyi.dadgumboxscores.com/css/dannygreen.css" rel="stylesheet" type="text/css">
+    
+    <meta name="generator" content="Hugo 0.40.1" />
+</head>
+
+
+
+
+
+<header>
+  <a href="https://fyi.dadgumboxscores.com/#top" style="display: none"></a>
+ <h1>
+   <a href="/" class="luther" >FYI: Dadgum Box Scores</a>
+  </h1>
+  <nav>
+   <a href="https://dadgumboxscores.com/">Box Scores</a>
+   <a href="https://dadgumboxscores.com/four-factors/">Factors</a>
+   <a href="https://dadgumboxscores.com/officials/">Refs</a>
+   <a href="https://dadgumboxscores.com/purpose/">Purpose</a>
+ </nav>
+</header>   
+<div class="wowsers">
+<br>
+
+  <section class="brooks">
+  <span class="ohyella">You’re reading <a href="/">FYI: Dadgum Box Scores</a>, random observations using every <a href="https://dadgumboxscores.com" >UNC box score</a> since '03-04.</span>
+  <br>
+  <br>
+  </section>  
+<section class="brooks">
+<span class="please date">Published: September 5, 2018</span>
+</section>  
+				
+
+<h1 id="easy-shot-volume-solver-since-03-04">Easy Shot Volume Solver: Since &lsquo;03-04</h1>
+
+<blockquote>
+<p>My offensive philosophy is that we’re going to run. We’re going to try to make the other team’s players run faster and longer than they ever have run in their lives &hellip; because if I’m better than you are, the more possessions we play, the more likely it is that I’m going to beat you. If I play golf against Tiger Woods for <strong>one hole</strong> I might beat him, but <strong>over 18
+holes</strong>, I have no chance.</p>
+
+<p>Roy Williams with Tim Crothers, <a href="https://www.amazon.com/Hard-Work-Life-Off-Court/dp/1565129598">Hard Work: A Life on and off the Court</a></p>
+</blockquote>
+
+<p>Any team coached by Roy Williams <em>believes</em> rebounds are a key to its success. It&rsquo;s the modus operandi of the Tar Heels since Williams has been on the bench.</p>
+
+<p>The recipe is simple.</p>
+
+<p>If Carolina gets more rebounds than their opponent, Carolina has more opportunities to score.</p>
+
+<p>As Williams put it, I might be able to beat Tiger Woods on one hole, but there is no chance I beat him if we play 18 holes.</p>
+
+<p>Williams isn&rsquo;t alone in his belief in the importance of rebounds. Pioneer of basketball analytics, Dean Oliver, includes offensive rebounding as one of <a href="https://cbbstatshelp.com/four-factors/">four factors</a> of success.</p>
+
+<p>More possessions, more opportunities to score.</p>
+
+<p>Another one of the four factors is avoiding turnovers. A turnover is an empty possession.</p>
+
+<p>Fewer possessions, fewer opportunities to score.</p>
+
+<p>This leads us to an interesting intersection of these two factors.</p>
+
+<blockquote>
+<p>Taking care of the ball and rebounding your misses is a good way to safely navigate your way around an off night on the perimeter.</p>
+
+<p><a href="https://twitter.com/JohnGasaway">John Gasaway</a>, Basketball Prospectus | ESPN Insider</p>
+</blockquote>
+
+<p>Gasaway identified this relationship between rebounding your misses and taking care of the ball, and built a way to measure it.</p>
+
+<p>He calls it <a href="https://johngasaway.com/2016/02/24/how-to-succeed-on-offense-without-really-making-shots/">ESVS or the Easy Shot Volume Solver</a>.</p>
+
+<p><code>ESVS = OR% + (100 - TO%)</code></p>
+
+<p>It&rsquo;s defined as a team’s offensive rebound percentage added to its percentage of effective (turnover-less) possessions.</p>
+
+<p>For example, the 2018 Tar Heels had an ESVS of 120.7 on offense.</p>
+
+<p>Carolina rebounded 37.4 percent of their misses and turned it over on 16.7 percent of their possessions, or put another way, 83.3 percent of possessions were turnover-free.</p>
+
+<p><code>ESVS = 37.4 + (100 - 16.7) = 120.7</code></p>
+
+<h2 id="what-does-this-all-mean">What does this all mean?</h2>
+
+<p>The insight with the metric is the idea that <strong>taking shots is just as important as making shots.</strong></p>
+
+<p>As Ole Roy said, you get the ball, and I get the ball.</p>
+
+<p>You want to make the most of your chances with the ball.</p>
+
+<p>This includes your first chance, so avoiding turnovers.</p>
+
+<p>And your second chance, rebounding your own misses.</p>
+
+<p><em>Realize it&rsquo;s far from a magic bullet.</em></p>
+
+<p>Remember, there are two other factors that makeup the four factors.</p>
+
+<p>Effective field goal percentage or how effective a team is at making shots. Of course, that&rsquo;s important.</p>
+
+<p>And getting to the foul line. Another opportunity to add points to the scoreboard.</p>
+
+<p>This metric is useful answer to this question:</p>
+
+<p><em>Can this team overcome a poor shooting night?</em></p>
+
+<p>Shooting involves a good amount of luck. Here&rsquo;s <a href="https://www.youtube.com/watch?v=lF8w3zN0xiA">some evidence</a> via <a href="https://twitter.com/hoopvision68/status/807641677515157504">Jordan Sperber</a>.</p>
+
+<p>Or how Sperber put it in this <a href="https://www.teamrankings.com/blog/ncaa-basketball/quantity-over-quality-getting-more-whacks-at-the-pinata-stat-geek-idol">March 2012 post</a>:</p>
+
+<blockquote>
+<p>By relying less on result of shots and more on quantity of shots, UNC increases their chances of PLAYING LIKE UNC on any given night. If UNC plays like UNC they should be considered a top Final Four candidate and beyond.</p>
+
+<p>Jordan Sperber, <a href="https://www.teamrankings.com/blog/ncaa-basketball/quantity-over-quality-getting-more-whacks-at-the-pinata-stat-geek-idol">TeamRankings post</a></p>
+</blockquote>
+
+<h2 id="so-how-has-carolina-performed-in-esvs-over-the-years">So, how has Carolina performed in ESVS over the years?</h2>
+
+<p>These two graphs show Carolina&rsquo;s ESVS on both offense and defense since 2003-04.</p>
+
+<p><img src="https://cdn-images-1.medium.com/max/800/1*raJEnWtIzLgQWgm_wpdNug.png" alt="offense" /></p>
+
+<p><img src="https://cdn-images-1.medium.com/max/800/1*SCsm-v5p7HYnMQkweRAPYg.png" alt="defense" /></p>
+
+<p>The following graph shows how this number has changed compared to the Division-I median during the same time frame.</p>
+
+<p><img src="https://cdn-images-1.medium.com/max/800/1*Ev4-EoH8_7JtWToZrHhXlg.png" alt="dImedian" /></p>
+
+<p>In the Roy Williams era, the Tar Heels routinely register a better offensive ESVS than the rest of Division-I college basketball.</p>
+
+<p>And on the defensive end, Carolina has posted a better defensive ESVS than the Division-I median in all but two seasons (2015, 2016). The 2016 squad posted an identical ESVS on defense to the D-I median.</p>
+
+<p>This table shows the raw ESVS numbers compared to the D-I median, including a difference column that takes the offensive ESVS and subtracts the defensive ESVS.</p>
+
+<pre>
+| YEAR | OFFENSE | DEFENSE | DIMEDIAN | DIFFERENCE |
+|:----:|:-------:|:-------:|:--------:|:----------:|
+| 2018 |   120.7 |   109.2 |    110.3 |      +11.5 |
+| 2017 |   125.1 |   106.4 |    110.8 |      +18.7 |
+| 2016 |   125.3 |   111.7 |    111.7 |      +13.6 |
+| 2015 |   121.8 |   113.5 |    111.9 |       +8.3 |
+| 2014 |   121.2 |   112.0 |    113.1 |       +9.2 |
+| 2013 |   117.4 |   110.1 |    111.8 |       +7.3 |
+| 2012 |   123.1 |   108.2 |    111.3 |      +14.9 |
+| 2011 |   117.7 |   108.2 |    113.7 |       +9.5 |
+| 2010 |   117.3 |   111.4 |    113.9 |       +5.9 |
+| 2009 |   121.5 |   109.7 |    114.1 |      +11.8 |
+| 2008 |   122.6 |   106.6 |    113.5 |        +16 |
+| 2007 |   120.8 |   106.0 |    113.9 |      +14.8 |
+| 2006 |   117.0 |   108.5 |    114.3 |       +8.5 |
+| 2005 |   118.1 |   106.5 |    114.2 |      +11.6 |
+| 2004 |   118.4 |   108.4 |    114.1 |      +10.0 |
+</pre>
+
+<p><em>Note: When Gasaway runs this metric, he only uses conference games. Not all games. For this exercise, we&rsquo;re including every single game where competition might be more volatile. Our analysis is a bit more shallow than specific.</em></p>
+
+<p><img src="https://cdn-images-1.medium.com/max/800/1*8DS8VSbpDQwXpgwOeVnhKA.png" alt="esvs-difference" /></p>
+
+<p><em>Notice anything about the largest totals in the difference column?</em></p>
+
+<p>If you sort the difference totals, you&rsquo;ll find the largest margins for these seasons:</p>
+
+<p><strong>2017</strong>: +18.7</p>
+
+<p><strong>2008</strong>: +16.0</p>
+
+<p><strong>2012</strong>: +14.9</p>
+
+<p><strong>2007</strong>: +14.8</p>
+
+<p><strong>2016</strong>: +13.6</p>
+
+<p><strong>2009</strong>: +11.8</p>
+
+<p><strong>2005</strong>: +11.6</p>
+
+<p><em>You know what else happened in those seasons?</em></p>
+
+<p>Carolina finished the season in the Elite Eight or better, including three National Championships.</p>
+
+<p>Again, don&rsquo;t fall in love with this metric as a magic bullet.</p>
+
+<p>Last season&rsquo;s squad posted a margin of +11.5, quite close to both 2005 and 2009.</p>
+
+<p>Other factors are absolutely important in a team&rsquo;s success. And trends and <em>how</em> teams are playing the game are changing too. A true comparison requires a deeper and more specific analysis.</p>
+
+<p>But what this metric does well is answer that question.</p>
+
+<p><em>Can this team overcome a poor shooting night?</em></p>
+
+<p>And they&rsquo;re might not be a better example than the 2017 National Championship squad.</p>
+
+<p>The 2017 Tar Heels pulled down a rebound on 41.3 percent of their misses and avoided turnovers on 16.2 percent of their possessions.</p>
+
+<p>This is good for an <strong>ESVS of 125.1</strong>.</p>
+
+<p><code>ESVS = 41.3 + (100-16.2) = 125.1</code></p>
+
+<p>Only the 2016 Tar Heels (125.3) posted a <em>higher ESVS</em>, and that season ended in April too.</p>
+
+<p>The 2017 NCAA Tournament run wasn&rsquo;t anything like the domination of 2009.</p>
+
+<p>It felt improbable, lucky at times, and it was absolute grind.</p>
+
+<p>Take the ESVS for the six NCAA Tournament games, which includes four games decided by 7 points or less.</p>
+
+<pre>
+| Game           |  OFF  |  DEF  |  DIFF |
+|----------------|:-----:|:-----:|:-----:|
+| Gonzaga        | 123.4 | 109.0 | +14.4 |
+| Oregon         | 120.7 | 110.3 | +10.4 |
+| Kentucky       | 114.2 | 113.9 |  +0.3 |
+| Butler         | 122.0 | 109.9 | +12.1 |
+| Arkansas       | 119.9 |  97.2 | +22.7 |
+| Texas Southern | 135.6 |  97.9 | +37.7 |
+</pre>
+
+<p>The Tar Heels posted a lower effective field goal percentage than their opponent in three of the six games (Gonzaga, Oregon, and Arkansas).</p>
+
+<p>Carolina survived poor shooting nights in that tournament.</p>
+
+<p><em>Why?</em></p>
+
+<p>Because the Tar Heels limited turnovers and grabbed offensive rebounds.</p>
+
+<p>More possessions, more chances to score.</p>
+
+<h2 id="so-what-else">So, what else?</h2>
+
+<p>ESVS or easy shot volume solver combines two of the four factors in a fascinating way.</p>
+
+<p>Turnover percentage and offensive rebounding have a unique relationship.</p>
+
+<p>Both factors can lead to more opportunities for a team to score.</p>
+
+<p>There is an order of operations though.</p>
+
+<p>A team <em>can&rsquo;t rebound a missed shot</em>, if it <em>turns over the ball before</em> taking a shot.</p>
+
+<p>For example, the 2018 Tar Heels rebounded 48.7 percent of their misses, but turned the ball over on 32.2 percent of their possessions at Virginia this past season.</p>
+
+<p>Carolina&rsquo;s ESVS was still <strong>116.5</strong>, but Virginia&rsquo;s ESVS of <strong>111.7</strong> wasn&rsquo;t far behind. The Tar Heels took only one more shot than the Cavaliers.</p>
+
+<p>The <a href="https://dadgumboxscores.com/boxes/2018/uva-61-unc-49/">Wahoos wacked Carolina</a> to win that game by 12 points.</p>
+
+<p>ESVS is descriptive enough to explain ways a team generates shots.</p>
+
+<p>It can explain <em>how</em> and <em>why</em> a team can survive a poor shooting night too.</p>
+
+<p>And when teams are evenly matched, it provides an insight into an advantage for one team.</p>
+
+<p><em>Consider the <a href="https://dadgumboxscores.com/boxes/2017/unc-71-zags-65/">2017 National Championship game</a> as an example:</em></p>
+
+<ul>
+<li>Gonzaga made 42.1 percent of three-point shots to the Carolina&rsquo;s 14.8 percent clip</li>
+<li>The Zags effective field goal percentage was 40.7 compared to 38.4 for the Tar Heels</li>
+<li>Carolina rebounded 28.8 percent of their missed shots, and Gonzaga snagged 27.9 percent of their missed shots</li>
+<li>The Bulldogs posted a higher free throw rate (44.7) to Carolina&rsquo;s (35.6)</li>
+</ul>
+
+<p><em>So where was the edge?</em></p>
+
+<p><strong>95.6 percent</strong> of Carolina&rsquo;s possessions were turnover free, and only <strong>81.1 percent</strong> of Gonzaga&rsquo;s possessions were without a turnover.</p>
+
+<p>Carolina&rsquo;s ESVS was <strong>123.4</strong> to Gonzaga&rsquo;s <strong>109.0</strong> mark.</p>
+
+<p>The Tar Heels took 14(!) more shots than the Bulldogs and won the game by six points.</p>
+
+
+<hr>
+<footer class="pinson" role="contentinfo">
+  <div class="pinson-dance">
+  <ul>
+  <li><a href="/esvs-since-03-04/#top">↑ Go back to the top of the page</a></li>
+  <li></li>
+  <li>© 2016-2018 Dadgum Box Scores</li>
+    </ul>
+  </div>
+</footer>
+			</div>
+	
