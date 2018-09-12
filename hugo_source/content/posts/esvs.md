@@ -87,13 +87,13 @@ Or how Sperber put it in this [March 2012 post](https://www.teamrankings.com/blo
 
 These two graphs show Carolina's ESVS on both offense and defense since 2003-04. 
 
-![offense](https://cdn-images-1.medium.com/max/800/1*raJEnWtIzLgQWgm_wpdNug.png)
+[![offense](https://cdn-images-1.medium.com/max/800/1*raJEnWtIzLgQWgm_wpdNug.png)](https://cdn-images-1.medium.com/max/800/1*raJEnWtIzLgQWgm_wpdNug.png)
 
-![defense](https://cdn-images-1.medium.com/max/800/1*SCsm-v5p7HYnMQkweRAPYg.png)
+[![defense](https://cdn-images-1.medium.com/max/800/1*SCsm-v5p7HYnMQkweRAPYg.png)](https://cdn-images-1.medium.com/max/800/1*SCsm-v5p7HYnMQkweRAPYg.png)
 
 The following graph shows how this number has changed compared to the Division-I median during the same time frame. 
 
-![dImedian](https://cdn-images-1.medium.com/max/800/1*Ev4-EoH8_7JtWToZrHhXlg.png)
+[![dImedian](https://cdn-images-1.medium.com/max/800/1*Ev4-EoH8_7JtWToZrHhXlg.png)](https://cdn-images-1.medium.com/max/800/1*Ev4-EoH8_7JtWToZrHhXlg.png)
 
 In the Roy Williams era, the Tar Heels routinely register a better offensive ESVS than the rest of Division-I college basketball. 
 
@@ -124,7 +124,7 @@ This table shows the raw ESVS numbers compared to the D-I median, including a di
 *Note: When Gasaway runs this metric, he only uses conference games. Not all games. For this exercise, we're including every single game where competition might be more volatile. Our analysis is a bit more shallow than specific.* 
 
 
-![esvs-difference](https://cdn-images-1.medium.com/max/800/1*8DS8VSbpDQwXpgwOeVnhKA.png)
+[![esvs-difference](https://cdn-images-1.medium.com/max/800/1*8DS8VSbpDQwXpgwOeVnhKA.png)](https://cdn-images-1.medium.com/max/800/1*8DS8VSbpDQwXpgwOeVnhKA.png)
 
 *Notice anything about the largest totals in the difference column?*
 

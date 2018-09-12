@@ -98,7 +98,9 @@ Villanova's AdjOE is 127.8 and AdjDE is 94.0.
 
 This graph shows how Carolina's minutes continuity relates to adjusted efficiency margin over this past 15 seasons. 
 
-![dImedian](https://cdn-images-1.medium.com/max/800/1*_hlantfH_p6Uu4cyREMJPw.png)
+[![dImedian](https://cdn-images-1.medium.com/max/800/1*_hlantfH_p6Uu4cyREMJPw.png)](https://cdn-images-1.medium.com/max/800/1*_hlantfH_p6Uu4cyREMJPw.png)
+
+[*Click to zoom*](https://cdn-images-1.medium.com/max/800/1*_hlantfH_p6Uu4cyREMJPw.png)
 
 And the raw numbers, including the Division-I median and difference for seasons 2008-2018. 
 
@@ -184,7 +186,9 @@ Here are the raw numbers:
 
 And a chart that shows the differences: 
 
-![final4dImedian](https://cdn-images-1.medium.com/max/800/1*kHsUVl5c9UvMIjKAVKnV-A.png)
+[![final4dImedian](https://cdn-images-1.medium.com/max/800/1*kHsUVl5c9UvMIjKAVKnV-A.png)](https://cdn-images-1.medium.com/max/800/1*kHsUVl5c9UvMIjKAVKnV-A.png)
+
+[*Click to zoom*](https://cdn-images-1.medium.com/max/800/1*kHsUVl5c9UvMIjKAVKnV-A.png)
 
 From 2008-2010, it was clear teams with more continuity made the Final Four. After the 2010 season, it became less likely a team with high continuity was in the Final Four. 
 
@@ -223,7 +227,9 @@ And since 2010, these four teams (Duke, North Carolina, Villanova, Kentucky) hav
 
 Here's a chart that shows how minutes continuity has changed amongst these four teams compared to the Division-I median since 2010.  
 
-![bluebloods](https://cdn-images-1.medium.com/max/800/1*p7XC5F-Jd_u0SSR_Ru_kfA.png)
+[![bluebloods](https://cdn-images-1.medium.com/max/800/1*p7XC5F-Jd_u0SSR_Ru_kfA.png)](https://cdn-images-1.medium.com/max/800/1*p7XC5F-Jd_u0SSR_Ru_kfA.png)
+
+[*Click to zoom*](https://cdn-images-1.medium.com/max/800/1*p7XC5F-Jd_u0SSR_Ru_kfA.png)
 
 It's clear Villanova and Carolina have tried to rely on more *experienced talent* versus Duke and Kentucky that go the *talent only* route as of late. 
 
