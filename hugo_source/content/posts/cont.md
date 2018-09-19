@@ -1,6 +1,6 @@
 ---
 title: "Experienced Talent: Curious Continuity"
-slug: "/continuity"
+slug: "continuity"
 date: "2018-09-12"
 type: "post"
 param_key: "18-19 Season"

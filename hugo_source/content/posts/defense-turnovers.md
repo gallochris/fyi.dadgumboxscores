@@ -1,6 +1,6 @@
 ---
 title: "In Defense of Turnovers"
-slug: "/in-defense-of-turnovers"
+slug: "in-defense-of-turnovers"
 date: "2018-09-18"
 type: "post"
 param_key: "18-19 Season"
