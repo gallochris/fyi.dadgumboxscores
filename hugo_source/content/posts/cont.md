@@ -4,7 +4,7 @@ slug: "/continuity"
 date: "2018-09-12"
 type: "post"
 param_key: "18-19 Season"
-description: "Turnover-free possessions plus offensive rebounds equals more shots."
+description: "Carolina posted its lowest continuity since 2013 last season."
 categories: ["features"]
 ---
 
