@@ -4,7 +4,7 @@ slug: "acc-preseason-rankings"
 date: "2018-10-23"
 type: "post"
 param_key: "Random"
-description: "A look back at preseason rankings for ACC teams."
+description: "A look back at preseason ACC rankings."
 categories: ["features"]
 ---
 
