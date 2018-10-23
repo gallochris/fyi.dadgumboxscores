@@ -10,7 +10,7 @@ categories: ["features"]
 
 # ACC Preseason Rankings 
 
-Operation basketball is slated for October 23, so let's explore how the preseason rankings line up with the end of the regular season. This is for team's only, not for player preseason All-ACC teams. 
+Operation basketball is slated for October 24, so let's explore how the preseason rankings line up with the end of the regular season. This is for teams only, not for player preseason All-ACC teams. 
 
 Below is a chart comparing preseason rankings to end of regular season rankings in the conference since the start of the 2003-04 season. A few observations from exploring these rankings. 
 
