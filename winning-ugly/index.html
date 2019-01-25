@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+    <html class="no-js" lang="en">
+<head>
+    
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+    <title>Winning Ugly</title>
+    <meta name="description" content="Analysis using every UNC basketball box score since 03-04.">
+    <meta name="author" content="Chris Gallo">
+
+    <link rel="shortcut icon" href="https://fyi.dadgumboxscores.com/images/favicon.ico">
+
+    
+    <link href="https://fyi.dadgumboxscores.com/css/dannygreen.css" rel="stylesheet" type="text/css">
+    
+    <meta name="generator" content="Hugo 0.53" />
+</head>
+
+
+
+
+
+<header>
+  <a href="https://fyi.dadgumboxscores.com/#top" style="display: none"></a>
+ <h1>
+   <a href="/" class="luther" >FYI: Dadgum Box Scores</a>
+  </h1>
+  <nav>
+   <a href="https://dadgumboxscores.com/">Box Scores</a>
+   <a href="https://dadgumboxscores.com/four-factors/">Factors</a>
+   <a href="https://dadgumboxscores.com/officials/">Refs</a>
+   <a href="https://dadgumboxscores.com/purpose/">Purpose</a>
+ </nav>
+</header>   
+<div class="wowsers">
+<br>
+
+  <section class="brooks">
+  <span class="ohyella">You’re reading <a href="/">FYI: Dadgum Box Scores</a>, random observations using every <a href="https://dadgumboxscores.com" >UNC box score</a> since '03-04.</span>
+  <br>
+  <br>
+  </section>  
+<section class="brooks">
+<span class="please date">Published: January 25, 2019</span>
+</section>  
+				
+
+<h1 id="winning-ugly">Winning Ugly</h1>
+
+<blockquote>
+<p>If you think you can only win when you shoot the ball, then you&rsquo;re not really tough. And that really ticks me off. You&rsquo;ve got to be able to win basketball games ugly.</p>
+
+<p><a href="https://youtu.be/61VFUMeZybI?t=255">Roy Williams after losing by 21-points at home to Louisville</a></p>
+</blockquote>
+
+<p>So what does it mean to win basketball games ugly?</p>
+
+<p>For the purpose of this exercise, we&rsquo;re going to define it as winning a game when you shot poorly.</p>
+
+<p>And how are we going to define shooting poorly?</p>
+
+<p>Instead of using just field goal percentage, we&rsquo;re going to use adjusted or effective field goal percentage because it takes into account a three-point basket is worth <em>more</em> than a two-point basket.</p>
+
+<p>Effective field goal percentage or eFG% is calculated like this:</p>
+
+<p><code>eFG% = (.5 * 3FGM + FGM) / FGA * 100</code></p>
+
+<p>So, what&rsquo;s a poor eFG% or adjusted field goal percentage?</p>
+
+<p>While 40% might be a good threshold for field goal percentage, we&rsquo;re going to use 45% as the fulcrum for adjusted field goal percentage.</p>
+
+<p>Anything over 45 eFG% is <em>decent</em> and anything below 45 eFG% is <em>poor</em>.</p>
+
+<p>This leaves us with a healthy sample size of games. In the Roy Williams era that spans 15 plus seasons and 569 total games, Carolina has registered a sub-45 eFG% 111 times.</p>
+
+<p>111 times or almost 20% of all games.</p>
+
+<p>The Tar Heels have a record of 42-69 when posting a sub-45 eFG%. Below is the breakdown per season or year.</p>
+
+<table>
+  <tr>
+    <th scope="col">Year</th>
+    <th scope="col">Win</th>
+    <th scope="col">Loss</th>
+  </tr>
+  <tr>
+    <td data-label="Year">2004</td>
+    <td data-label="Win">2</td>
+    <td data-label="Loss">2</td>
+  </tr>
+   <tr>
+    <td data-label="Year">2005</td>
+    <td data-label="Win">1</td>
+    <td data-label="Loss">2</td>
+  </tr>
+  <tr>
+    <td data-label="Year">2006</td>
+    <td data-label="Win">0</td>
+    <td data-label="Loss">4</td>
+  </tr>
+   <tr>
+    <td data-label="Year">2007</td>
+    <td data-label="Win">3</td>
+    <td data-label="Loss">3</td>
+  </tr>
+  <tr>
+    <td data-label="Year">2008</td>
+    <td data-label="Win">4</td>
+    <td data-label="Loss">3</td>
+  </tr>
+   <tr>
+    <td data-label="Year">2009</td>
+    <td data-label="Win">1</td>
+    <td data-label="Loss">4</td>
+  </tr>
+  <tr>
+    <td data-label="Year">2010</td>
+    <td data-label="Win">3</td>
+    <td data-label="Loss">12</td>
+  </tr>
+  <tr>
+    <td data-label="Year">2011</td>
+    <td data-label="Win">6</td>
+    <td data-label="Loss">5</td>
+  </tr>
+  <tr>
+    <td data-label="Year">2012</td>
+    <td data-label="Win">5</td>
+    <td data-label="Loss">2</td>
+  </tr>
+   <tr>
+    <td data-label="Year">2013</td>
+    <td data-label="Win">4</td>
+    <td data-label="Loss">8</td>
+  </tr>
+  <tr>
+    <td data-label="Year">2014</td>
+    <td data-label="Win">2</td>
+    <td data-label="Loss">6</td>
+  </tr>
+  <tr>
+    <td data-label="Year">2015</td>
+    <td data-label="Win">0</td>
+    <td data-label="Loss">4</td>
+  </tr>
+  <tr>
+    <td data-label="Year">2016</td>
+    <td data-label="Win">4</td>
+    <td data-label="Loss">2</td>
+  </tr>
+   <tr>
+    <td data-label="Year">2017</td>
+    <td data-label="Win">5</td>
+    <td data-label="Loss">5</td>
+  </tr>
+  <tr>
+    <td data-label="Year">2018</td>
+    <td data-label="Win">2</td>
+    <td data-label="Loss">5</td>
+  </tr>
+   <tr>
+    <td data-label="Year">2019</td>
+    <td data-label="Win">0</td>
+    <td data-label="Loss">2</td>
+  </tr>
+  </table>
+
+<p>The Tar Heels are 0-2 when posting an eFG% below 45 through the first 19 games of the 2018-19 season:</p>
+
+<ol>
+<li><p>17-point loss <a href="https://dadgumboxscores.com/boxes/2019/mich-84-unc-67.pdf">at Michigan</a>: 44.7 eFG%</p></li>
+
+<li><p>21-point loss <a href="https://dadgumboxscores.com/boxes/2019/lville-83-unc-62.pdf">against Louisville</a>: 37.1 eFG%</p></li>
+</ol>
+
+<p>So, that means the 2018-19 version of Carolina <em>can&rsquo;t</em> win ugly?</p>
+
+<p>Not exactly.</p>
+
+<p>The sample size is immature. There are at least 18 games left in the regular season.</p>
+
+<p>These eFG% numbers are descriptive, not predictive. It describes what happened in the game. It doesn&rsquo;t mean the next time Carolina registers an eFG% under 45 it will be a loss.</p>
+
+<p>And of course, there are other factors too (<a href="https://docs.cbbstatshelp.com/four-factors/intro">3 other really important ones</a>.)</p>
+
+<p>It does suggest that <em>this</em> Carolina team has a slim margin of error when shooting poorly. The good news is this has only happened in 11% of games thus far. The bad news is the good news won&rsquo;t predict the future.</p>
+
+<hr />
+
+<p><strong>So, what does a team look like that <em>can</em> win ugly?</strong></p>
+
+<p>The 2017 National Champion squad is a hell of an example.</p>
+
+<p>The 2017 Tar Heels posted a 5-5 record when registering a sub-45 eFG%.</p>
+
+<p>Get this.</p>
+
+<p>Three of those five wins were in the NCAA Tournament, including the National Championship game.</p>
+
+<p>This means half of the wins en route to the 2017 Title were <em>won ugly</em>.</p>
+
+<p>Take the <a href="https://dadgumboxscores.com/boxes/2017/unc-72-ark-65/">Arkansas game</a> as an example. This is the game you say Carolina <em>maybe</em> didn&rsquo;t deserve to win, but they won, and this is why.</p>
+
+<p>Shot volume or more opportunities to score.</p>
+
+<p>Arkansas posted an eFG% of 50% to Carolina&rsquo;s 42.1%. The Tar Heels even turned it over on 23% of its possessions, however, the Razorbacks were worse at 25.6% of its possessions.</p>
+
+<p>Carolina attempted three more field goals and 17(!) more free throws than Arkansas. It won the game by seven points.</p>
+
+<p><strong>When the ball doesn&rsquo;t go in the basket, what can you do to avoid a loss?</strong></p>
+
+<p>Get to the foul line and bludgeon your opponent on the boards.</p>
+
+<p>The Tar Heels made 18 free throws while the Razorbacks attempted eight (+10 margin), plus Carolina rebounded 42.9% of its missed shots and 77.1% of Arkansas&rsquo; missed shots.</p>
+
+<p>This is one way <em>how you can win ugly</em> or overcome a poor shooting effort.</p>
+
+<p>You earn more opportunities to score.</p>
+
+<p><strong>What other ways can you win ugly?</strong></p>
+
+<p>There is enormous power is not making stupid decisions.</p>
+
+<p>When it comes to basketball, avoiding turnovers <em>can</em> be a super power.</p>
+
+<p>Let&rsquo;s revisit this example from the <a href="https://fyi.dadgumboxscores.com/esvs-since-03-04/">ESVS blog post</a>, in the 2017 National Championship game:</p>
+
+<ul>
+<li>Gonzaga made 42.1% of three-point shots to the Carolina’s 14.8% clip</li>
+<li>The Zags effective field goal percentage was 40.7 compared to 38.4 for the Tar Heels</li>
+<li>Carolina rebounded 28.8% of their missed shots, and Gonzaga snagged 27.9% of its missed shots</li>
+<li>The Bulldogs posted a higher free throw rate (44.7) to Carolina’s (35.6)</li>
+</ul>
+
+<p>So, what&rsquo;s the point?</p>
+
+<p><strong>95.6%</strong> of Carolina’s possessions were turnover free, and only <strong>81.1%</strong> of Gonzaga’s possessions were without a turnover.</p>
+
+<p><em>Why is this a super power?</em></p>
+
+<p>If you turn over the ball, you can&rsquo;t shoot, and if you can&rsquo;t shoot, you can&rsquo;t score, and if you can&rsquo;t score - well, you get the point.</p>
+
+<p>Carolina took 14(!) more shots than the Bulldogs and won the game by six points.</p>
+
+<p><strong>Does getting more shots and avoiding turnovers always work?</strong></p>
+
+<p>Nope.</p>
+
+<p>While earning more shots and avoiding turnovers is generally a positive strategy, it won&rsquo;t guarantee success.</p>
+
+<p>Remember the <a href="https://dadgumboxscores.com/boxes/2018/unc-65-tam-85.pdf">2018 NCAA Tournament loss to Texas A&amp;M</a>?</p>
+
+<p>Carolina avoided turnovers on 92.3% of its possessions, and still lost by 20 points. Twenty!</p>
+
+<p>The Tar Heels even attempted 18(!) more shots than the Aggies. Turns out Texas A&amp;M made 14 free throws and Carolina attempted just seven free throws (+7 margin).</p>
+
+<p>And Texas A&amp;M didn&rsquo;t need a lot of shots because it posted a 60 eFG%.</p>
+
+<p>Sometimes when the ball doesn&rsquo;t go in the basket, it&rsquo;s simply too much to overcome because the other team outperforms you.</p>
+
+<p><strong>So, what is the best way to win ugly?</strong></p>
+
+<p>What <em>if</em> you didn&rsquo;t have to win ugly? Or at least win ugly all that often?</p>
+
+<p><img src="https://cdn-images-1.medium.com/max/800/1*T9kivOQQ-FJZP17eq0k7rA.png" alt="chart-win-ugly" /></p>
+
+<p><a href="https://cdn-images-1.medium.com/max/800/1*T9kivOQQ-FJZP17eq0k7rA.png"><em>Click to zoom</em></a></p>
+
+<p>The chart above shows:</p>
+
+<ul>
+<li>wins</li>
+<li>losses</li>
+<li>percentage of games where it shot below 45 eFG%</li>
+</ul>
+
+<p>This is for the Roy Williams era or since the start of the 2003-04 season, when Carolina posts a sub-45 eFG%.</p>
+
+<p><strong>Three examples</strong></p>
+
+<p>First, the 2005 National Championship team recorded a sub-45 eFG% just three times in 37 games or just 8% of its games. It didn&rsquo;t need to win ugly all that often, and it was 1-2 in those <a href="https://dadgumboxscores.com/boxes/2005/unc-75-duke-73/">three games</a>.</p>
+
+<p>The win? It was an important one for many reasons.</p>
+
+<p>The 75-73 win over Duke when <a href="https://www.youtube.com/watch?v=_XeKhKayto8">Marvin recovers and scores</a>. A game where <a href="https://dadgumboxscores.com/boxes/2005/unc-75-duke-73/">Carolina attempted 11 more shots and seven more free throws</a>.</p>
+
+<p>Second, the 2010 team is the polar opposite. A sub-45 eFG% in a whopping 41% of its games. The 2010 made the NIT. It wasn&rsquo;t good, and this is some damning evidence why.</p>
+
+<p>If you&rsquo;re going to shoot poorly in 41% of your games, you&rsquo;re simply not going to win much.</p>
+
+<p>And finally, the 2009 Championship team had 13% or five of its 38 games with an offensive eFG% below 45. It won just <em>one</em> of those games too.</p>
+
+<p>The average margin of defeat in those four losses? Just <em>four</em> points. A pair of possessions.</p>
+
+<p>While the outcomes suggest the team <em>couldn&rsquo;t</em> win ugly, it was damn close to winning all of those contests.</p>
+
+<p>For comparison, the average margin of defeat in the two games when the 2018-19 team posts a sub-45 eFG%?</p>
+
+<p><em>19 points</em>.</p>
+
+<p><strong>So, what does it mean for this season&rsquo;s squad?</strong></p>
+
+<p>It&rsquo;s a concern that the 2018-2019 has put out two data points where it shoots quite poorly, and both results were lopsided losses. Not even close.</p>
+
+<p>This season&rsquo;s team isn&rsquo;t the <em>traditional</em> Roy Williams team in a lot of ways. It doesn&rsquo;t overwhelm you on the boards, it turns the ball over way too much, and both of these means the shot volume is <em>just good</em> and not <em>great</em> like in 2017.</p>
+
+<p>Bit, just because Carolina hasn&rsquo;t <em>won</em> ugly yet, it doesn&rsquo;t mean it <em>can&rsquo;t</em> win ugly.</p>
+
+<p>Remember, descriptive. Not predictive.</p>
+
+<p>Everything looks better when the ball goes in the basket.</p>
+
+<p>A major question for the 2018-19 Tar Heels is <em>how</em> does it look when the ball <em>doesn&rsquo;t</em> go in the basket.</p>
+
+<hr />
+
+<p>P.S. - all of the <a href="https://dadgumboxscores.com/four-factors/">eFG% and four factor data can be found here</a>.</p>
+
+<p>And you can poke holes all over this analysis, here are a couple explanations for possible items we&rsquo;re not accounting for:</p>
+
+<p><em>Why the arbitrary cut-off of 45% for eFG%?</em></p>
+
+<ul>
+<li>above 45 eFG% increases the sample size, but dilutes the point</li>
+<li>Ken Pomeroy shows the median Division-I eFG% as 48 or higher, it was 51% last season</li>
+<li>45% is well-below average, and 111 games felt like a hearty sample</li>
+</ul>
+
+<p><em>What about changes in the game?</em></p>
+
+<ul>
+<li>this article ignores a lot, and all of these are valid points:</li>
+<li>the shot clock decreased to from 35 seconds to 30 seconds in the 2015-16 season</li>
+<li>teams got to the foul line a lot more a decade ago than today</li>
+<li>teams attempt more three-point shots now (33 3PTA in 2009 and 38 3PTA last season)</li>
+<li>competition and number of league games teams play has changed</li>
+</ul>
+
+<p>Totally more things we&rsquo;re <em>not</em> accounting for too. So if you think this article is hogwash, rather than dismissing it, please tell us how to improve it.</p>
+
+
+<hr>
+<footer class="pinson" role="contentinfo">
+  <div class="pinson-dance">
+  <ul>
+  <li><a href="/winning-ugly/#top">↑ Go back to the top of the page</a></li>
+  <li></li>
+  <li>© 2016-2019 Dadgum Box Scores</li>
+    </ul>
+  </div>
+</footer>
+			</div>
+	

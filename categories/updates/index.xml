@@ -6,10 +6,21 @@
     <description>Recent content in Updates on Dadgum Box Scores</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://fyi.dadgumboxscores.com/categories/updates/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Update: Better tables</title>
+      <link>https://fyi.dadgumboxscores.com/update-05/</link>
+      <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fyi.dadgumboxscores.com/update-05/</guid>
+      <description>Update: Better tables, spelling errors, and filterable factors! We&amp;rsquo;re now using Bootstrap 4 and Datatables to host all the data. You&amp;rsquo;ll notice the tables are formatted slightly different, and the responsiveness is less confusing.
+If you&amp;rsquo;re still accessing the four factors on a mobile device, plan to use landscape. It will make it much easier to view the data.
+And while we&amp;rsquo;re mentioning the four factors, you&amp;rsquo;ll now find a search box to filter games and see the four factor data.</description>
+    </item>
     
     <item>
       <title>Update: Fouls, technicals, spreads</title>
