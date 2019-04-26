@@ -6,10 +6,21 @@
     <description>Recent content in Updates on Dadgum Box Scores</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://fyi.dadgumboxscores.com/categories/updates/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Update: Shooting data</title>
+      <link>https://fyi.dadgumboxscores.com/update-06/</link>
+      <pubDate>Fri, 26 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fyi.dadgumboxscores.com/update-06/</guid>
+      <description>Update: Shots! Shots! Shots! 2PT, 3PT, and free throws After a good amount of data collecting and cleaning, the site now has shooting data for all 586 games in the Roy Williams era. This includes Carolina and opponent game-by-game data for the following:
+ two-point shots three-point shots free throws  You can find it here: https://dadgumboxscores.com/shooting-offense/
+If you&amp;rsquo;re accessing this data on a mobile device, plan to use landscape.</description>
+    </item>
     
     <item>
       <title>Update: Better tables</title>
