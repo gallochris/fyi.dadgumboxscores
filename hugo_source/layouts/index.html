@@ -12,12 +12,12 @@
   <h2 class="readtime">Latest Post</h2>
   <h2>
       <br>
-      <a href="{{ .Permalink }}">{{ .Title }}</a>
+      <a href="{{ .Permalink }}"><h2>{{ .Title }}</h2></a>
       </h2>
       <span class="date">{{.Date.Format "January 02, 2006"}} </span>
       <br>
       <br>
-      <h2><span class="ohyella">
+      <h2><span class="preview">
         {{ .Description }}</span>
       </h2>
       {{ end }}

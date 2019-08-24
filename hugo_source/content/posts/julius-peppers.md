@@ -76,7 +76,7 @@ Peppers had 6 points, 4 rebounds, 3 blocks, and 2 steals to help Carolina beat S
 
 He had a huge and-1 at the end of the first half, and he was a force against Cardinal big-men Mark Madsen, Ryan Mendez, and Jason and Jarrod Collins. 
 
-{{< wistia 6ypt7bg1ac >}}
+{{< youtube OvU2-SxiV6g >}}
 
 <br/>
 <br/>
@@ -89,7 +89,8 @@ The Tar Heels erased a 4-point deficit in the final 4 minutes to advance to the 
 
 The numbers don't do it justice, look *how* he played: 
 
-{{< wistia 79309dor4u >}}
+
+{{< youtube CTW8uzJR6Qc >}}
 
 <br/>
 <br/>
@@ -100,7 +101,7 @@ He caught an alley-oop from Cota, found Cota on a backdoor layup, changed a shot
 
 The way Peppers snatched rebounds out of the air was impressive. Think about that. *Rebounds were impressive*. James Worthy, Tar Heel great and color commentator, [said he had pogo sticks](https://youtu.be/vlYIEczYACQ?t=47m14s) in his legs. He was massive down the stretch. 
 
-{{< wistia j8zx3k94bi >}}
+{{< youtube OxWo7bCBtDI >}}
 
 <br/>
 <br/>
@@ -159,7 +160,7 @@ Peppers threw down a left-handed dunk plus the foul. He failed make the free thr
 
 Curry hit Peppers for an alley-oop, and Wake Forest head coach Dave Odom called a necessary timeout. 
 
-{{< wistia dn9uck1fgh >}}
+{{< youtube rOxIfR-t4GE >}}
 
 <br/>
 <br/>
