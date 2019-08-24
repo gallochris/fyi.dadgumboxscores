@@ -2,8 +2,8 @@
 
 body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 16px;
-  line-height: 1.25;
+  font-size: 18px;
+  line-height: 1.38;
   margin: 0 auto;
   color: #14191d; 
   background-color: #F2FAFD;
@@ -16,6 +16,14 @@ body {
   line-height: 1.5em;
  }
 
+a, li, p {
+
+  margin-top: 18px;
+    font-size: 18px;
+    letter-spacing: -.02px;
+    line-height: 1.38;
+}
+
 
  .dean { 
     text-align: center;
@@ -23,16 +31,18 @@ body {
   }
 
 h1 {
-  font-size: 24px;
+    font-size: 36px;
+    line-height: 1.5em;
 }
 b { 
   color: #0c0f12;
  }
 h2 {
-  font-size: 18px;
+  font-size: 30px;
+  line-height: 1.5em;
 }
 h3 {
-  font-size: 14px;
+  font-size: 24px;
 }
 
 .wowsers a { 
@@ -144,7 +154,13 @@ blockquote p {
   background-color: #faf785; 
   padding: 0.25em; 
   border-radius: 1em 0 1em 0;
-  font-size: 14px;
+}
+
+.preview {
+font-size: 18px;
+background-color: #faf785; 
+  padding: 0.25em; 
+  border-radius: 1em 0 1em 0;
 }
 
 .readtime { 
@@ -208,19 +224,20 @@ table th {
 
  header {
   overflow: hidden;
-  background-color: #56a0d3;
+  background-color: #7BAFD4;
   color:#fff;
 }
 
 header h1 {
   text-align: center;
-  font-size: 24px;
+  font-size: 36px;
   color: #fff;
 }
 
 header h1 a {
   color: #fff;
   text-decoration: none;
+  font-size: 36px;
 }
 
 header nav {
@@ -280,13 +297,6 @@ header nav a {
     color: #fff;
   }
 
-  h1 { 
-  font-size: 14px;
-   }
-
-   h4 {
-    font-size: 12px;
-   }
 
  table {
     border: 0;
@@ -359,14 +369,6 @@ font-size: 10px;         /* only if needed */
   font-size: 10px;
 }
 
-body {
-  font-size: 14px;
-  line-height: 1.2;
-}
-
-.ohyella {
-  font-size: 12px;
-}
 
 table {
     border: 0;
