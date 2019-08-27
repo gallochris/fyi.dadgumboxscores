@@ -6,10 +6,22 @@
     <description>Recent content in updates on Dadgum Box Scores</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://fyi.dadgumboxscores.com/categories/updates/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Dadgum Box Scores: 2.0</title>
+      <link>https://fyi.dadgumboxscores.com/brand-new-shiny/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fyi.dadgumboxscores.com/brand-new-shiny/</guid>
+      <description>Dadgum Box Scores 2.0 The long offseason project is ready for some eyeballs. In the last update, I wrote I wanted to convert all the data on this site into a Shiny App.
+And that&amp;rsquo;s now a reality.
+You can see the new app here: app.dadgumboxscores.com
+Who cares? If you&amp;rsquo;re interested in stats, the history of Carolina basketball in the Roy Williams Era, and like to play with data &amp;hellip; maybe you do?</description>
+    </item>
     
     <item>
       <title>Update: Shooting data</title>
