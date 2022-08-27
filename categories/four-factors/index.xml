@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>four factors on Dadgum Box Scores</title>
@@ -6,11 +6,7 @@
     <description>Recent content in four factors on Dadgum Box Scores</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Feb 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://fyi.dadgumboxscores.com/categories/four-factors/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 23 Feb 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://fyi.dadgumboxscores.com/categories/four-factors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Four Factor Friday: Second Chance Points</title>
       <link>https://fyi.dadgumboxscores.com/four-factor-friday-07/</link>
@@ -21,7 +17,7 @@
 An obvious statement. Whether it&amp;rsquo;s true or not is up for debate, however, people have completed complex studies to confirm or deny it.
 So what does this have to do with basketball?
 Rebounds change games.
-This is a belief of Roy Williams. It&amp;rsquo;s been a point of emphasis for all 15 of his Carolina teams.</description>
+This is a belief of Roy Williams. It&amp;rsquo;s been a point of emphasis for all 15 of his Carolina teams. Whether the personnel is taller or smaller, Carolina is known for their ability to rebound.</description>
     </item>
     
     <item>
@@ -33,7 +29,7 @@ This is a belief of Roy Williams. It&amp;rsquo;s been a point of emphasis for al
       <description>Four Factor Friday: Dec. 8, 2017 It&amp;rsquo;s the first edition of Four Factor Friday for the 2017-18 season, and let&amp;rsquo;s take a look at Carolina&amp;rsquo;s performance after the first 10 games.
 Wait, what are the four factors?
 The four factors determine why a team wins or loses. The factors are measured both on offense and defense.
- Shooting:: measured using effective field goal percentage, accounts for a 3-pointer being worth more than 2-pointer.</description>
+Shooting:: measured using effective field goal percentage, accounts for a 3-pointer being worth more than 2-pointer.</description>
     </item>
     
     <item>
@@ -44,8 +40,7 @@ The four factors determine why a team wins or loses. The factors are measured bo
       <guid>https://fyi.dadgumboxscores.com/four-factor-friday-05/</guid>
       <description>Four Factor Friday: Dec. 23, 2016 In this edition of Four Factor Friday, we’re taking a look at the free throw rate of three UNC big men — Isaiah Hicks, Kennedy Meeks, and Tony Bradley.
 What is free throw rate?
-The more free throws a team attempts, the better opportunity it has to score and win games.
-This is measured through a team’s free throw rate.
+The more free throws a team attempts, the better opportunity it has to score and win games. This is measured through a team’s free throw rate.
 It’s the amount of free throw attempts divided by the amount of the field goal attempts.</description>
     </item>
     
@@ -57,7 +52,8 @@ It’s the amount of free throw attempts divided by the amount of the field goal
       <guid>https://fyi.dadgumboxscores.com/four-factor-friday-04/</guid>
       <description>Four Factor Friday: December 16, 2016 This article was originally published at The Secondary Break, run by Adrian Atkinson.
 This edition of Four Factor Friday is centered around the showdown against Kentucky tomorrow. Let’s get into it.
-When Kentucky has the ball  | | Kentucky | UNC | |:------:|:--------:|:----:| | eFG% | 53.6 | 44.8 | | TO% | 14.6 | 21.3 | | OR% | 39.6 | 29.</description>
+When Kentucky has the ball The Wildcats have won games by not turning the ball over and running the opposition off the floor.
+Kentucky only turns it over on 14.6 percent of their possessions.</description>
     </item>
     
     <item>
@@ -77,9 +73,10 @@ It’s calculated by taking a team’s total offensive rebounds and comparing it
       <pubDate>Fri, 18 Nov 2016 00:00:00 +0000</pubDate>
       
       <guid>https://fyi.dadgumboxscores.com/four-factor-friday-00/</guid>
-      <description>Four Factor Friday: Nov. 18, 2016   UNC is 3–0 and beating opponents by an average of 29 points.
- Effective field goal percentage Turnover percentage Offensive rebounding Free throw rate  Here’s how the Tar Heels are measuring up after 3 games in effective field goal percentage.
-eFG% Effective field goal percentage takes into account that a 3-point field goal is worth more than a 2-point field goal.</description>
+      <description>Four Factor Friday: Nov. 18, 2016 UNC is 3–0 and beating opponents by an average of 29 points.
+Effective field goal percentage Turnover percentage Offensive rebounding Free throw rate Here’s how the Tar Heels are measuring up after 3 games in effective field goal percentage.
+eFG% Effective field goal percentage takes into account that a 3-point field goal is worth more than a 2-point field goal.
+It’s calculated: eFG% = (.</description>
     </item>
     
   </channel>

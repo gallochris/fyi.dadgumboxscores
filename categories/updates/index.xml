@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>updates on Dadgum Box Scores</title>
@@ -6,11 +6,7 @@
     <description>Recent content in updates on Dadgum Box Scores</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Aug 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://fyi.dadgumboxscores.com/categories/updates/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 27 Aug 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://fyi.dadgumboxscores.com/categories/updates/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dadgum Box Scores: 2.0</title>
       <link>https://fyi.dadgumboxscores.com/brand-new-shiny/</link>
@@ -20,7 +16,7 @@
       <description>Dadgum Box Scores 2.0 The long offseason project is ready for some eyeballs. In the last update, I wrote I wanted to convert all the data on this site into a Shiny App.
 And that&amp;rsquo;s now a reality.
 You can see the new app here: app.dadgumboxscores.com
-Who cares? If you&amp;rsquo;re interested in stats, the history of Carolina basketball in the Roy Williams Era, and like to play with data &amp;hellip; maybe you do?</description>
+Who cares? If you&amp;rsquo;re interested in stats, the history of Carolina basketball in the Roy Williams Era, and like to play with data . .</description>
     </item>
     
     <item>
@@ -30,8 +26,8 @@ Who cares? If you&amp;rsquo;re interested in stats, the history of Carolina bask
       
       <guid>https://fyi.dadgumboxscores.com/update-06/</guid>
       <description>Update: Shots! Shots! Shots! 2PT, 3PT, and free throws After a good amount of data collecting and cleaning, the site now has shooting data for all 586 games in the Roy Williams era. This includes Carolina and opponent game-by-game data for the following:
- two-point shots three-point shots free throws  You can find it here: https://dadgumboxscores.com/shooting-offense/
-If you&amp;rsquo;re accessing this data on a mobile device, plan to use landscape.</description>
+two-point shots three-point shots free throws You can find it here: https://dadgumboxscores.com/shooting-offense/
+If you&amp;rsquo;re accessing this data on a mobile device, plan to use landscape. It makes it much easier to view the data.</description>
     </item>
     
     <item>
@@ -52,10 +48,10 @@ And while we&amp;rsquo;re mentioning the four factors, you&amp;rsquo;ll now find
       
       <guid>https://fyi.dadgumboxscores.com/update-04/</guid>
       <description>Update: Fouls, Technicals, Spreads There are new pages added to the referee or officials section of the site:
- fouls - shows officials and total fouls game-by-game since &amp;lsquo;03-04
- technicals - shows any game with a technical foul (opponent or Carolina) in the Roy Williams era
- spread - shows the spread for all available games since &amp;lsquo;03-04, several games are unavailable
-  This information is shared alongside the listed officials for each game.</description>
+fouls - shows officials and total fouls game-by-game since &amp;lsquo;03-04
+technicals - shows any game with a technical foul (opponent or Carolina) in the Roy Williams era
+spread - shows the spread for all available games since &amp;lsquo;03-04, several games are unavailable
+This information is shared alongside the listed officials for each game.</description>
     </item>
     
     <item>
@@ -65,8 +61,8 @@ And while we&amp;rsquo;re mentioning the four factors, you&amp;rsquo;ll now find
       
       <guid>https://fyi.dadgumboxscores.com/update-03/</guid>
       <description>Update: Four factors for every game If you don&amp;rsquo;t know, the four factors explain why a team wins or loses. They&amp;rsquo;re the building blocks to efficiency. The four factors are:
- Shooting (eFG) Avoiding turnovers (TO%) Offensive rebounding (OR%) Getting to the foul line (FTRate)  I&amp;rsquo;ve now added four factors and points-per-possession (PPP) for every game since 2003-04 on this page on the site.
-This was a tall task.</description>
+Shooting (eFG) Avoiding turnovers (TO%) Offensive rebounding (OR%) Getting to the foul line (FTRate) I&amp;rsquo;ve now added four factors and points-per-possession (PPP) for every game since 2003-04 on this page on the site.
+This was a tall task. For any games from the &amp;lsquo;03-04 to the &amp;lsquo;06-07 season, the four factors had to be calculated manually.</description>
     </item>
     
     <item>
@@ -77,7 +73,8 @@ This was a tall task.</description>
       <guid>https://fyi.dadgumboxscores.com/update-02/</guid>
       <description>Update: Four factors, more refs, and NBA players Did you know UNC was 11-3 last season when posting a higher turnover percentage than its opponent?
 It&amp;rsquo;s true, you can find that information here.
-Two of those wins came in the NCAA Championship run against Butler and Kentucky. Carolina could win games turning the ball over more often than its opponent because of its strength in the other three factors.</description>
+Two of those wins came in the NCAA Championship run against Butler and Kentucky. Carolina could win games turning the ball over more often than its opponent because of its strength in the other three factors.
+What are the four factors?</description>
     </item>
     
     <item>
