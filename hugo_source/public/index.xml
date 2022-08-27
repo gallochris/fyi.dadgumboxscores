@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>FYI | Dadgum Box Scores on Dadgum Box Scores</title>
@@ -6,11 +6,7 @@
     <description>Recent content in FYI | Dadgum Box Scores on Dadgum Box Scores</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Aug 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://fyi.dadgumboxscores.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 27 Aug 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://fyi.dadgumboxscores.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dadgum Box Scores: 2.0</title>
       <link>https://fyi.dadgumboxscores.com/brand-new-shiny/</link>
@@ -20,7 +16,7 @@
       <description>Dadgum Box Scores 2.0 The long offseason project is ready for some eyeballs. In the last update, I wrote I wanted to convert all the data on this site into a Shiny App.
 And that&amp;rsquo;s now a reality.
 You can see the new app here: app.dadgumboxscores.com
-Who cares? If you&amp;rsquo;re interested in stats, the history of Carolina basketball in the Roy Williams Era, and like to play with data &amp;hellip; maybe you do?</description>
+Who cares? If you&amp;rsquo;re interested in stats, the history of Carolina basketball in the Roy Williams Era, and like to play with data . .</description>
     </item>
     
     <item>
@@ -30,8 +26,8 @@ Who cares? If you&amp;rsquo;re interested in stats, the history of Carolina bask
       
       <guid>https://fyi.dadgumboxscores.com/update-06/</guid>
       <description>Update: Shots! Shots! Shots! 2PT, 3PT, and free throws After a good amount of data collecting and cleaning, the site now has shooting data for all 586 games in the Roy Williams era. This includes Carolina and opponent game-by-game data for the following:
- two-point shots three-point shots free throws  You can find it here: https://dadgumboxscores.com/shooting-offense/
-If you&amp;rsquo;re accessing this data on a mobile device, plan to use landscape.</description>
+two-point shots three-point shots free throws You can find it here: https://dadgumboxscores.com/shooting-offense/
+If you&amp;rsquo;re accessing this data on a mobile device, plan to use landscape. It makes it much easier to view the data.</description>
     </item>
     
     <item>
@@ -40,9 +36,9 @@ If you&amp;rsquo;re accessing this data on a mobile device, plan to use landscap
       <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://fyi.dadgumboxscores.com/winning-ugly/</guid>
-      <description>Winning Ugly  If you think you can only win when you shoot the ball, then you&amp;rsquo;re not really tough. And that really ticks me off. You&amp;rsquo;ve got to be able to win basketball games ugly.
+      <description>Winning Ugly If you think you can only win when you shoot the ball, then you&amp;rsquo;re not really tough. And that really ticks me off. You&amp;rsquo;ve got to be able to win basketball games ugly.
 Roy Williams after losing by 21-points at home to Louisville
- So what does it mean to win basketball games ugly?
+So what does it mean to win basketball games ugly?
 For the purpose of this exercise, we&amp;rsquo;re going to define it as winning a game when you shot poorly.</description>
     </item>
     
@@ -65,7 +61,7 @@ And while we&amp;rsquo;re mentioning the four factors, you&amp;rsquo;ll now find
       <guid>https://fyi.dadgumboxscores.com/acc-preseason-rankings/</guid>
       <description>ACC Preseason Rankings Operation basketball is slated for October 24, so let&amp;rsquo;s explore how the preseason rankings line up with the end of the regular season. This is for teams only, not for player preseason All-ACC teams.
 Below is a chart comparing preseason rankings to end of regular season rankings in the conference since the start of the 2003-04 season. A few observations from exploring these rankings.
-Carolina atop the rankings  Carolina has been selected as preseason number 1 six times (2007, 2008, 2009, 2010, 2012, 2016) The Tar Heels finished the regular season with league&amp;rsquo;s top ranking in five of those six years (hint: not 2010) Three times Carolina has finished the regular season atop the rankings despite being picked lower in the preseason (picked second in 2017, third in 2011, second in 2005)  Most frequent team picked first in the preseason  Duke: eight times The Blue Devils have been picked first in preseason eight times (2004, 2006, 2010, 2011, 2014, 2015, 2017, 2018) Duke has only finished first at the end of the regular season three times (2004, 2006, 2010)  Accuracy at the bottom?</description>
+Carolina atop the rankings Carolina has been selected as preseason number 1 six times (2007, 2008, 2009, 2010, 2012, 2016) The Tar Heels finished the regular season with league&amp;rsquo;s top ranking in five of those six years (hint: not 2010) Three times Carolina has finished the regular season atop the rankings despite being picked lower in the preseason (picked second in 2017, third in 2011, second in 2005) Most frequent team picked first in the preseason Duke: eight times The Blue Devils have been picked first in preseason eight times (2004, 2006, 2010, 2011, 2014, 2015, 2017, 2018) Duke has only finished first at the end of the regular season three times (2004, 2006, 2010) Accuracy at the bottom?</description>
     </item>
     
     <item>
@@ -76,7 +72,7 @@ Carolina atop the rankings  Carolina has been selected as preseason number 1 six
       <guid>https://fyi.dadgumboxscores.com/in-defense-of-turnovers/</guid>
       <description>In Defense of Turnovers If you had to list out the bugaboos for the 2018 Tar Heels, defense should be on your list.
 The facts are staggering:
- opponents shot 38 percent from behind the three-point line (worst in Roy Williams era) highest offensive points per possession (1.28) in a loss in Roy Williams era (Miami scored 1.32 PPP) 96.7 adjusted defensive efficiency (worst in Roy Williams era) five different opponents shot 50 percent or better from behind the three-point line a 50.</description>
+opponents shot 38 percent from behind the three-point line (worst in Roy Williams era) highest offensive points per possession (1.28) in a loss in Roy Williams era (Miami scored 1.32 PPP) 96.7 adjusted defensive efficiency (worst in Roy Williams era) five different opponents shot 50 percent or better from behind the three-point line a 50.</description>
     </item>
     
     <item>
@@ -86,7 +82,7 @@ The facts are staggering:
       
       <guid>https://fyi.dadgumboxscores.com/continuity/</guid>
       <description>Experienced Talent: Curious Continuity Prior to the start of the 2015-16 season, Roy Williams was asked about the challenges of getting an experienced team to grow as a group.
- Theres no question younger players can take bigger leaps, because they havent proven they can do it so you dont know if they can. I like an experienced team; they have been easier to coach. They understand those difficult moments in the locker room, they also understand those good moments in the locker.</description>
+Theres no question younger players can take bigger leaps, because they havent proven they can do it so you dont know if they can. I like an experienced team; they have been easier to coach. They understand those difficult moments in the locker room, they also understand those good moments in the locker.</description>
     </item>
     
     <item>
@@ -95,7 +91,7 @@ The facts are staggering:
       <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>https://fyi.dadgumboxscores.com/esvs-since-03-04/</guid>
-      <description>Easy Shot Volume Solver: Since &amp;lsquo;03-04  My offensive philosophy is that we’re going to run. We’re going to try to make the other team’s players run faster and longer than they ever have run in their lives &amp;hellip; because if I’m better than you are, the more possessions we play, the more likely it is that I’m going to beat you. If I play golf against Tiger Woods for one hole I might beat him, but over 18 holes, I have no chance.</description>
+      <description>Easy Shot Volume Solver: Since &amp;lsquo;03-04 My offensive philosophy is that we’re going to run. We’re going to try to make the other team’s players run faster and longer than they ever have run in their lives . . . because if I’m better than you are, the more possessions we play, the more likely it is that I’m going to beat you. If I play golf against Tiger Woods for one hole I might beat him, but over 18 holes, I have no chance.</description>
     </item>
     
     <item>
@@ -116,10 +112,10 @@ Peppers, a native of Bailey, N.C., was heavily recruited out of Southern Nash hi
       
       <guid>https://fyi.dadgumboxscores.com/update-04/</guid>
       <description>Update: Fouls, Technicals, Spreads There are new pages added to the referee or officials section of the site:
- fouls - shows officials and total fouls game-by-game since &amp;lsquo;03-04
- technicals - shows any game with a technical foul (opponent or Carolina) in the Roy Williams era
- spread - shows the spread for all available games since &amp;lsquo;03-04, several games are unavailable
-  This information is shared alongside the listed officials for each game.</description>
+fouls - shows officials and total fouls game-by-game since &amp;lsquo;03-04
+technicals - shows any game with a technical foul (opponent or Carolina) in the Roy Williams era
+spread - shows the spread for all available games since &amp;lsquo;03-04, several games are unavailable
+This information is shared alongside the listed officials for each game.</description>
     </item>
     
     <item>
@@ -141,8 +137,8 @@ True or False: A freshman has started at least one game in eight of 15 seasons i
       
       <guid>https://fyi.dadgumboxscores.com/update-03/</guid>
       <description>Update: Four factors for every game If you don&amp;rsquo;t know, the four factors explain why a team wins or loses. They&amp;rsquo;re the building blocks to efficiency. The four factors are:
- Shooting (eFG) Avoiding turnovers (TO%) Offensive rebounding (OR%) Getting to the foul line (FTRate)  I&amp;rsquo;ve now added four factors and points-per-possession (PPP) for every game since 2003-04 on this page on the site.
-This was a tall task.</description>
+Shooting (eFG) Avoiding turnovers (TO%) Offensive rebounding (OR%) Getting to the foul line (FTRate) I&amp;rsquo;ve now added four factors and points-per-possession (PPP) for every game since 2003-04 on this page on the site.
+This was a tall task. For any games from the &amp;lsquo;03-04 to the &amp;lsquo;06-07 season, the four factors had to be calculated manually.</description>
     </item>
     
     <item>
@@ -167,7 +163,7 @@ After winning the 2005 National Championship, Carolina finished with a 23-8 reco
 An obvious statement. Whether it&amp;rsquo;s true or not is up for debate, however, people have completed complex studies to confirm or deny it.
 So what does this have to do with basketball?
 Rebounds change games.
-This is a belief of Roy Williams. It&amp;rsquo;s been a point of emphasis for all 15 of his Carolina teams.</description>
+This is a belief of Roy Williams. It&amp;rsquo;s been a point of emphasis for all 15 of his Carolina teams. Whether the personnel is taller or smaller, Carolina is known for their ability to rebound.</description>
     </item>
     
     <item>
@@ -177,7 +173,7 @@ This is a belief of Roy Williams. It&amp;rsquo;s been a point of emphasis for al
       
       <guid>https://fyi.dadgumboxscores.com/duke-carolina-early-entries/</guid>
       <description>Duke &amp;amp; Carolina: NBA Early Entries Roy Williams was asked if the nature of the Duke-North Carolina rivalry has changed because of the frequent turnover of the players. Read his response below or listen to it here.
- It&amp;rsquo;s still the names of the front. You guys won&amp;rsquo;t believe this, but I think, strongly, we&amp;rsquo;ve had more guys leave early since I&amp;rsquo;ve been here than they have. Period. We just haven&amp;rsquo;t had the one-and-dones.</description>
+It&amp;rsquo;s still the names of the front. You guys won&amp;rsquo;t believe this, but I think, strongly, we&amp;rsquo;ve had more guys leave early since I&amp;rsquo;ve been here than they have. Period. We just haven&amp;rsquo;t had the one-and-dones.</description>
     </item>
     
     <item>
@@ -189,7 +185,7 @@ This is a belief of Roy Williams. It&amp;rsquo;s been a point of emphasis for al
       <description>Four Factor Friday: Dec. 8, 2017 It&amp;rsquo;s the first edition of Four Factor Friday for the 2017-18 season, and let&amp;rsquo;s take a look at Carolina&amp;rsquo;s performance after the first 10 games.
 Wait, what are the four factors?
 The four factors determine why a team wins or loses. The factors are measured both on offense and defense.
- Shooting:: measured using effective field goal percentage, accounts for a 3-pointer being worth more than 2-pointer.</description>
+Shooting:: measured using effective field goal percentage, accounts for a 3-pointer being worth more than 2-pointer.</description>
     </item>
     
     <item>
@@ -200,7 +196,8 @@ The four factors determine why a team wins or loses. The factors are measured bo
       <guid>https://fyi.dadgumboxscores.com/update-02/</guid>
       <description>Update: Four factors, more refs, and NBA players Did you know UNC was 11-3 last season when posting a higher turnover percentage than its opponent?
 It&amp;rsquo;s true, you can find that information here.
-Two of those wins came in the NCAA Championship run against Butler and Kentucky. Carolina could win games turning the ball over more often than its opponent because of its strength in the other three factors.</description>
+Two of those wins came in the NCAA Championship run against Butler and Kentucky. Carolina could win games turning the ball over more often than its opponent because of its strength in the other three factors.
+What are the four factors?</description>
     </item>
     
     <item>
@@ -211,8 +208,9 @@ Two of those wins came in the NCAA Championship run against Butler and Kentucky.
       <guid>https://fyi.dadgumboxscores.com/carolinas-frequent-fouler/</guid>
       <description>Carolina’s Frequent Fouler Isaiah Hicks is one of the most puzzling UNC basketball players of all-time.
 Because he can do things most collegiate players dream about, like putting opponents on a poster as seen here:
- But Hicks struggles to stay on the floor because he does a lot of this:
- Isaiah Hicks has committed four or more fouls in 31 of his last 70 career games. That’s 44 percent.</description>
+But Hicks struggles to stay on the floor because he does a lot of this:
+Isaiah Hicks has committed four or more fouls in 31 of his last 70 career games. That’s 44 percent.
+While UNC was en route to their run to the NCAA Championship game a year ago, Hicks registered four or more fouls in every NCAA Tournament game except one.</description>
     </item>
     
     <item>
@@ -236,8 +234,7 @@ You can now find a list of officials for every game played in the 2016–17 UNC 
       <guid>https://fyi.dadgumboxscores.com/four-factor-friday-05/</guid>
       <description>Four Factor Friday: Dec. 23, 2016 In this edition of Four Factor Friday, we’re taking a look at the free throw rate of three UNC big men — Isaiah Hicks, Kennedy Meeks, and Tony Bradley.
 What is free throw rate?
-The more free throws a team attempts, the better opportunity it has to score and win games.
-This is measured through a team’s free throw rate.
+The more free throws a team attempts, the better opportunity it has to score and win games. This is measured through a team’s free throw rate.
 It’s the amount of free throw attempts divided by the amount of the field goal attempts.</description>
     </item>
     
@@ -249,7 +246,8 @@ It’s the amount of free throw attempts divided by the amount of the field goal
       <guid>https://fyi.dadgumboxscores.com/four-factor-friday-04/</guid>
       <description>Four Factor Friday: December 16, 2016 This article was originally published at The Secondary Break, run by Adrian Atkinson.
 This edition of Four Factor Friday is centered around the showdown against Kentucky tomorrow. Let’s get into it.
-When Kentucky has the ball  | | Kentucky | UNC | |:------:|:--------:|:----:| | eFG% | 53.6 | 44.8 | | TO% | 14.6 | 21.3 | | OR% | 39.6 | 29.</description>
+When Kentucky has the ball The Wildcats have won games by not turning the ball over and running the opposition off the floor.
+Kentucky only turns it over on 14.6 percent of their possessions.</description>
     </item>
     
     <item>
@@ -269,9 +267,10 @@ It’s calculated by taking a team’s total offensive rebounds and comparing it
       <pubDate>Fri, 18 Nov 2016 00:00:00 +0000</pubDate>
       
       <guid>https://fyi.dadgumboxscores.com/four-factor-friday-00/</guid>
-      <description>Four Factor Friday: Nov. 18, 2016   UNC is 3–0 and beating opponents by an average of 29 points.
- Effective field goal percentage Turnover percentage Offensive rebounding Free throw rate  Here’s how the Tar Heels are measuring up after 3 games in effective field goal percentage.
-eFG% Effective field goal percentage takes into account that a 3-point field goal is worth more than a 2-point field goal.</description>
+      <description>Four Factor Friday: Nov. 18, 2016 UNC is 3–0 and beating opponents by an average of 29 points.
+Effective field goal percentage Turnover percentage Offensive rebounding Free throw rate Here’s how the Tar Heels are measuring up after 3 games in effective field goal percentage.
+eFG% Effective field goal percentage takes into account that a 3-point field goal is worth more than a 2-point field goal.
+It’s calculated: eFG% = (.</description>
     </item>
     
     <item>

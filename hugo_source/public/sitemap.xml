@@ -1,170 +1,99 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://fyi.dadgumboxscores.com/categories/</loc>
     <lastmod>2019-08-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://fyi.dadgumboxscores.com/brand-new-shiny/</loc>
     <lastmod>2019-08-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://fyi.dadgumboxscores.com/</loc>
     <lastmod>2019-08-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://fyi.dadgumboxscores.com/posts/</loc>
     <lastmod>2019-08-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://fyi.dadgumboxscores.com/categories/updates/</loc>
     <lastmod>2019-08-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://fyi.dadgumboxscores.com/update-06/</loc>
     <lastmod>2019-04-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fyi.dadgumboxscores.com/winning-ugly/</loc>
-    <lastmod>2019-01-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://fyi.dadgumboxscores.com/categories/features/</loc>
     <lastmod>2019-01-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://fyi.dadgumboxscores.com/winning-ugly/</loc>
+    <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://fyi.dadgumboxscores.com/update-05/</loc>
     <lastmod>2019-01-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://fyi.dadgumboxscores.com/acc-preseason-rankings/</loc>
     <lastmod>2018-10-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://fyi.dadgumboxscores.com/in-defense-of-turnovers/</loc>
     <lastmod>2018-09-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://fyi.dadgumboxscores.com/continuity/</loc>
     <lastmod>2018-09-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://fyi.dadgumboxscores.com/esvs-since-03-04/</loc>
     <lastmod>2018-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://fyi.dadgumboxscores.com/julius-frazier-peppers/</loc>
     <lastmod>2018-08-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://fyi.dadgumboxscores.com/update-04/</loc>
     <lastmod>2018-08-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://fyi.dadgumboxscores.com/true-or-false-freshman/</loc>
     <lastmod>2018-08-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://fyi.dadgumboxscores.com/update-03/</loc>
     <lastmod>2018-08-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://fyi.dadgumboxscores.com/18-season-retrospect/</loc>
     <lastmod>2018-03-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://fyi.dadgumboxscores.com/four-factor-friday-07/</loc>
     <lastmod>2018-02-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://fyi.dadgumboxscores.com/categories/four-factors/</loc>
     <lastmod>2018-02-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://fyi.dadgumboxscores.com/duke-carolina-early-entries/</loc>
     <lastmod>2018-02-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://fyi.dadgumboxscores.com/four-factor-friday-06/</loc>
     <lastmod>2017-12-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://fyi.dadgumboxscores.com/update-02/</loc>
     <lastmod>2017-11-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://fyi.dadgumboxscores.com/carolinas-frequent-fouler/</loc>
     <lastmod>2017-03-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://fyi.dadgumboxscores.com/update-01/</loc>
     <lastmod>2017-02-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://fyi.dadgumboxscores.com/four-factor-friday-05/</loc>
     <lastmod>2016-12-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://fyi.dadgumboxscores.com/four-factor-friday-04/</loc>
     <lastmod>2016-12-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://fyi.dadgumboxscores.com/four-factor-friday-01/</loc>
     <lastmod>2016-11-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://fyi.dadgumboxscores.com/four-factor-friday-00/</loc>
     <lastmod>2016-11-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://fyi.dadgumboxscores.com/free-throw-rate/</loc>
     <lastmod>2016-11-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://fyi.dadgumboxscores.com/series/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://fyi.dadgumboxscores.com/tags/</loc>
-    <priority>0</priority>
   </url>
-  
 </urlset>
